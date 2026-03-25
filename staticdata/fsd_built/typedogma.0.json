@@ -46271,6 +46271,10 @@
       {
         "attributeID": 3236, 
         "value": 0.0
+      }, 
+      {
+        "attributeID": 6108, 
+        "value": 0.0
       }
     ], 
     "dogmaEffects": []
@@ -67630,6 +67634,14 @@
       {
         "attributeID": 1795, 
         "value": 10000.0
+      }, 
+      {
+        "attributeID": 6118, 
+        "value": 1.0
+      }, 
+      {
+        "attributeID": 6119, 
+        "value": 1.0
       }
     ], 
     "dogmaEffects": [
@@ -67644,6 +67656,14 @@
       {
         "effectID": 101, 
         "isDefault": 1
+      }, 
+      {
+        "effectID": 12838, 
+        "isDefault": 0
+      }, 
+      {
+        "effectID": 12839, 
+        "isDefault": 0
       }
     ]
   }, 
@@ -141965,7 +141985,7 @@
       }, 
       {
         "attributeID": 793, 
-        "value": 25.0
+        "value": 20.0
       }, 
       {
         "attributeID": 1132, 
@@ -158801,6 +158821,14 @@
       {
         "attributeID": 1795, 
         "value": 10000.0
+      }, 
+      {
+        "attributeID": 6118, 
+        "value": 1.0
+      }, 
+      {
+        "attributeID": 6119, 
+        "value": 1.0
       }
     ], 
     "dogmaEffects": [
@@ -158818,6 +158846,14 @@
       }, 
       {
         "effectID": 4162, 
+        "isDefault": 0
+      }, 
+      {
+        "effectID": 12838, 
+        "isDefault": 0
+      }, 
+      {
+        "effectID": 12839, 
         "isDefault": 0
       }
     ]
@@ -158900,6 +158936,14 @@
       {
         "attributeID": 1795, 
         "value": 10000.0
+      }, 
+      {
+        "attributeID": 6118, 
+        "value": 1.0
+      }, 
+      {
+        "attributeID": 6119, 
+        "value": 1.0
       }
     ], 
     "dogmaEffects": [
@@ -158917,6 +158961,14 @@
       }, 
       {
         "effectID": 4162, 
+        "isDefault": 0
+      }, 
+      {
+        "effectID": 12838, 
+        "isDefault": 0
+      }, 
+      {
+        "effectID": 12839, 
         "isDefault": 0
       }
     ]
@@ -314807,6 +314859,10 @@
         "value": 1202.0
       }, 
       {
+        "attributeID": 1879, 
+        "value": 5087.0
+      }, 
+      {
         "attributeID": 1944, 
         "value": 34590.0
       }, 
@@ -346437,7 +346493,7 @@
       }, 
       {
         "attributeID": 76, 
-        "value": 120000.0
+        "value": 102000.0
       }, 
       {
         "attributeID": 79, 
@@ -346856,7 +346912,7 @@
       }, 
       {
         "attributeID": 76, 
-        "value": 150000.0
+        "value": 127500.0
       }, 
       {
         "attributeID": 79, 
@@ -347255,7 +347311,7 @@
       }, 
       {
         "attributeID": 76, 
-        "value": 125000.0
+        "value": 112000.0
       }, 
       {
         "attributeID": 79, 
@@ -347642,7 +347698,7 @@
       }, 
       {
         "attributeID": 76, 
-        "value": 100000.0
+        "value": 90000.0
       }, 
       {
         "attributeID": 79, 
@@ -348061,7 +348117,7 @@
       }, 
       {
         "attributeID": 76, 
-        "value": 104000.0
+        "value": 88400.0
       }, 
       {
         "attributeID": 79, 
@@ -348500,7 +348556,7 @@
       }, 
       {
         "attributeID": 76, 
-        "value": 112000.0
+        "value": 95200.0
       }, 
       {
         "attributeID": 79, 
@@ -348911,7 +348967,7 @@
       }, 
       {
         "attributeID": 76, 
-        "value": 140000.0
+        "value": 119000.0
       }, 
       {
         "attributeID": 79, 
@@ -783985,6 +784041,10 @@
       {
         "attributeID": 3236, 
         "value": 0.0
+      }, 
+      {
+        "attributeID": 6108, 
+        "value": 0.0
       }
     ], 
     "dogmaEffects": []
@@ -784021,6 +784081,10 @@
       }, 
       {
         "attributeID": 3236, 
+        "value": 0.0
+      }, 
+      {
+        "attributeID": 6108, 
         "value": 0.0
       }
     ], 
@@ -814071,6 +814135,10 @@
         "value": 0.0
       }, 
       {
+        "attributeID": 55, 
+        "value": 1000000.0
+      }, 
+      {
         "attributeID": 158, 
         "value": 0.0
       }, 
@@ -814119,6 +814187,14 @@
         "value": 56400000.0
       }, 
       {
+        "attributeID": 481, 
+        "value": 0.0
+      }, 
+      {
+        "attributeID": 482, 
+        "value": 1.0
+      }, 
+      {
         "attributeID": 484, 
         "value": 1.0
       }, 
@@ -814133,6 +814209,10 @@
       {
         "attributeID": 552, 
         "value": 1000.0
+      }, 
+      {
+        "attributeID": 562, 
+        "value": 0.0
       }, 
       {
         "attributeID": 665, 
@@ -815107,6 +815187,10 @@
         "value": 0.0
       }, 
       {
+        "attributeID": 55, 
+        "value": 1000000.0
+      }, 
+      {
         "attributeID": 158, 
         "value": 0.0
       }, 
@@ -815155,6 +815239,14 @@
         "value": 86400000.0
       }, 
       {
+        "attributeID": 481, 
+        "value": 0.0
+      }, 
+      {
+        "attributeID": 482, 
+        "value": 1.0
+      }, 
+      {
         "attributeID": 524, 
         "value": 1.0
       }, 
@@ -815165,6 +815257,10 @@
       {
         "attributeID": 552, 
         "value": 1000.0
+      }, 
+      {
+        "attributeID": 562, 
+        "value": 0.0
       }, 
       {
         "attributeID": 665, 
@@ -815593,6 +815689,10 @@
         "value": 0.0
       }, 
       {
+        "attributeID": 55, 
+        "value": 1000000.0
+      }, 
+      {
         "attributeID": 158, 
         "value": 0.0
       }, 
@@ -815641,6 +815741,14 @@
         "value": 86400000.0
       }, 
       {
+        "attributeID": 481, 
+        "value": 0.0
+      }, 
+      {
+        "attributeID": 482, 
+        "value": 1.0
+      }, 
+      {
         "attributeID": 524, 
         "value": 1.0
       }, 
@@ -815651,6 +815759,10 @@
       {
         "attributeID": 552, 
         "value": 1000.0
+      }, 
+      {
+        "attributeID": 562, 
+        "value": 0.0
       }, 
       {
         "attributeID": 665, 
@@ -815836,6 +815948,10 @@
         "value": 0.0
       }, 
       {
+        "attributeID": 55, 
+        "value": 1000000.0
+      }, 
+      {
         "attributeID": 158, 
         "value": 0.0
       }, 
@@ -815884,6 +816000,14 @@
         "value": 86400000.0
       }, 
       {
+        "attributeID": 481, 
+        "value": 0.0
+      }, 
+      {
+        "attributeID": 482, 
+        "value": 1.0
+      }, 
+      {
         "attributeID": 524, 
         "value": 1.0
       }, 
@@ -815894,6 +816018,10 @@
       {
         "attributeID": 552, 
         "value": 1000.0
+      }, 
+      {
+        "attributeID": 562, 
+        "value": 0.0
       }, 
       {
         "attributeID": 665, 
@@ -816160,6 +816288,10 @@
         "value": 0.0
       }, 
       {
+        "attributeID": 55, 
+        "value": 1000000.0
+      }, 
+      {
         "attributeID": 158, 
         "value": 0.0
       }, 
@@ -816208,6 +816340,14 @@
         "value": 86400000.0
       }, 
       {
+        "attributeID": 481, 
+        "value": 0.0
+      }, 
+      {
+        "attributeID": 482, 
+        "value": 1.0
+      }, 
+      {
         "attributeID": 524, 
         "value": 1.0
       }, 
@@ -816218,6 +816358,10 @@
       {
         "attributeID": 552, 
         "value": 1000.0
+      }, 
+      {
+        "attributeID": 562, 
+        "value": 0.0
       }, 
       {
         "attributeID": 665, 
@@ -825910,7 +826054,7 @@
       }, 
       {
         "attributeID": 11, 
-        "value": 44.0
+        "value": 50.0
       }, 
       {
         "attributeID": 12, 
@@ -825958,7 +826102,7 @@
       }, 
       {
         "attributeID": 76, 
-        "value": 32000.0
+        "value": 40000.0
       }, 
       {
         "attributeID": 79, 
@@ -826101,16 +826245,12 @@
         "value": 1.0
       }, 
       {
-        "attributeID": 464, 
-        "value": 7.5
-      }, 
-      {
         "attributeID": 479, 
         "value": 625000.0
       }, 
       {
         "attributeID": 482, 
-        "value": 450.0
+        "value": 525.0
       }, 
       {
         "attributeID": 484, 
@@ -826241,6 +826381,10 @@
         "value": 11349.0
       }, 
       {
+        "attributeID": 1822, 
+        "value": -50.0
+      }, 
+      {
         "attributeID": 2045, 
         "value": 1.0
       }, 
@@ -826268,6 +826412,10 @@
       }, 
       {
         "effectID": 3489, 
+        "isDefault": 0
+      }, 
+      {
+        "effectID": 4990, 
         "isDefault": 0
       }, 
       {
@@ -827950,6 +828098,14 @@
       {
         "attributeID": 1795, 
         "value": 10000.0
+      }, 
+      {
+        "attributeID": 6118, 
+        "value": 1.0
+      }, 
+      {
+        "attributeID": 6119, 
+        "value": 1.0
       }
     ], 
     "dogmaEffects": [
@@ -827964,6 +828120,14 @@
       {
         "effectID": 101, 
         "isDefault": 1
+      }, 
+      {
+        "effectID": 12838, 
+        "isDefault": 0
+      }, 
+      {
+        "effectID": 12839, 
+        "isDefault": 0
       }
     ]
   }, 
@@ -834428,7 +834592,7 @@
       }, 
       {
         "attributeID": 783, 
-        "value": 0.1
+        "value": 0.025
       }, 
       {
         "attributeID": 784, 
@@ -847053,7 +847217,7 @@
       }, 
       {
         "attributeID": 783, 
-        "value": 0.12
+        "value": 0.03
       }, 
       {
         "attributeID": 784, 
@@ -848918,6 +849082,14 @@
       {
         "attributeID": 1795, 
         "value": 10000.0
+      }, 
+      {
+        "attributeID": 6118, 
+        "value": 1.0
+      }, 
+      {
+        "attributeID": 6119, 
+        "value": 1.0
       }
     ], 
     "dogmaEffects": [
@@ -848932,6 +849104,14 @@
       {
         "effectID": 101, 
         "isDefault": 1
+      }, 
+      {
+        "effectID": 12838, 
+        "isDefault": 0
+      }, 
+      {
+        "effectID": 12839, 
+        "isDefault": 0
       }
     ]
   }, 
@@ -911872,7 +912052,7 @@
       }, 
       {
         "attributeID": 76, 
-        "value": 130000.0
+        "value": 110500.0
       }, 
       {
         "attributeID": 79, 
@@ -942101,6 +942281,10 @@
       {
         "attributeID": 1872, 
         "value": 1202.0
+      }, 
+      {
+        "attributeID": 1879, 
+        "value": 5087.0
       }, 
       {
         "attributeID": 1944, 
@@ -1062871,7 +1063055,7 @@
       }, 
       {
         "attributeID": 102, 
-        "value": 6.0
+        "value": 5.0
       }, 
       {
         "attributeID": 109, 
@@ -1063218,14 +1063402,6 @@
         "value": 30.0
       }, 
       {
-        "attributeID": 3266, 
-        "value": 50.0
-      }, 
-      {
-        "attributeID": 3267, 
-        "value": 100.0
-      }, 
-      {
         "attributeID": 3268, 
         "value": 0.05
       }, 
@@ -1063522,7 +1063698,7 @@
       }, 
       {
         "attributeID": 500, 
-        "value": 10.0
+        "value": 20.0
       }, 
       {
         "attributeID": 524, 
@@ -1063723,14 +1063899,6 @@
       {
         "attributeID": 3133, 
         "value": 30.0
-      }, 
-      {
-        "attributeID": 3266, 
-        "value": 50.0
-      }, 
-      {
-        "attributeID": 3267, 
-        "value": 100.0
       }, 
       {
         "attributeID": 3268, 
@@ -1064041,7 +1064209,7 @@
       }, 
       {
         "attributeID": 501, 
-        "value": -7.5
+        "value": -10.0
       }, 
       {
         "attributeID": 524, 
@@ -1064238,14 +1064406,6 @@
       {
         "attributeID": 3133, 
         "value": 30.0
-      }, 
-      {
-        "attributeID": 3266, 
-        "value": 50.0
-      }, 
-      {
-        "attributeID": 3267, 
-        "value": 100.0
       }, 
       {
         "attributeID": 3268, 
@@ -1064668,7 +1064828,7 @@
       }, 
       {
         "attributeID": 1257, 
-        "value": 7.5
+        "value": 15.0
       }, 
       {
         "attributeID": 1258, 
@@ -1064751,14 +1064911,6 @@
         "value": 30.0
       }, 
       {
-        "attributeID": 3266, 
-        "value": 50.0
-      }, 
-      {
-        "attributeID": 3267, 
-        "value": 100.0
-      }, 
-      {
         "attributeID": 3268, 
         "value": 0.05
       }, 
@@ -1064805,15 +1064957,15 @@
         "isDefault": 0
       }, 
       {
-        "effectID": 8155, 
-        "isDefault": 0
-      }, 
-      {
         "effectID": 8156, 
         "isDefault": 0
       }, 
       {
         "effectID": 8377, 
+        "isDefault": 0
+      }, 
+      {
+        "effectID": 12811, 
         "isDefault": 0
       }
     ]
@@ -1109263,7 +1109415,7 @@
       }, 
       {
         "attributeID": 263, 
-        "value": 2190.0
+        "value": 3285.0
       }, 
       {
         "attributeID": 271, 
@@ -1109347,7 +1109499,7 @@
       }, 
       {
         "attributeID": 2131, 
-        "value": 119.0
+        "value": 178.5
       }, 
       {
         "attributeID": 2132, 
@@ -1109395,7 +1109547,7 @@
       }, 
       {
         "attributeID": 2215, 
-        "value": 9.0
+        "value": 6.0
       }, 
       {
         "attributeID": 2223, 
@@ -1109407,7 +1109559,7 @@
       }, 
       {
         "attributeID": 2227, 
-        "value": 65.0
+        "value": 97.5
       }, 
       {
         "attributeID": 2228, 
@@ -1109530,7 +1109682,7 @@
       }, 
       {
         "attributeID": 263, 
-        "value": 2190.0
+        "value": 3285.0
       }, 
       {
         "attributeID": 271, 
@@ -1109622,7 +1109774,7 @@
       }, 
       {
         "attributeID": 2133, 
-        "value": 131.0
+        "value": 196.5
       }, 
       {
         "attributeID": 2134, 
@@ -1109662,7 +1109814,7 @@
       }, 
       {
         "attributeID": 2215, 
-        "value": 9.0
+        "value": 6.0
       }, 
       {
         "attributeID": 2223, 
@@ -1109682,7 +1109834,7 @@
       }, 
       {
         "attributeID": 2229, 
-        "value": 72.0
+        "value": 108.0
       }, 
       {
         "attributeID": 2230, 
@@ -1109797,7 +1109949,7 @@
       }, 
       {
         "attributeID": 263, 
-        "value": 2190.0
+        "value": 3285.0
       }, 
       {
         "attributeID": 271, 
@@ -1109885,7 +1110037,7 @@
       }, 
       {
         "attributeID": 2132, 
-        "value": 138.0
+        "value": 207.0
       }, 
       {
         "attributeID": 2133, 
@@ -1109929,7 +1110081,7 @@
       }, 
       {
         "attributeID": 2215, 
-        "value": 9.0
+        "value": 6.0
       }, 
       {
         "attributeID": 2223, 
@@ -1109945,7 +1110097,7 @@
       }, 
       {
         "attributeID": 2228, 
-        "value": 75.0
+        "value": 112.5
       }, 
       {
         "attributeID": 2229, 
@@ -1110064,7 +1110216,7 @@
       }, 
       {
         "attributeID": 263, 
-        "value": 2190.0
+        "value": 3285.0
       }, 
       {
         "attributeID": 271, 
@@ -1110160,7 +1110312,7 @@
       }, 
       {
         "attributeID": 2134, 
-        "value": 113.0
+        "value": 169.5
       }, 
       {
         "attributeID": 2135, 
@@ -1110196,7 +1110348,7 @@
       }, 
       {
         "attributeID": 2215, 
-        "value": 9.0
+        "value": 6.0
       }, 
       {
         "attributeID": 2223, 
@@ -1110220,7 +1110372,7 @@
       }, 
       {
         "attributeID": 2230, 
-        "value": 62.0
+        "value": 93.0
       }, 
       {
         "attributeID": 2231, 

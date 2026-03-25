@@ -2089,7 +2089,7 @@
       "role": {
         "bonuses": [
           {
-            "text": "·Bonus auf die Effektivität von Sensorferndämpfern"
+            "text": "·Unterbrechungsfeldwerfer ist ausrüstbar"
           }, 
           {
             "number": "25%", 
@@ -2215,7 +2215,7 @@
       "role": {
         "bonuses": [
           {
-            "text": "·de bonus à l'efficacité des atténuateurs de détection à distance"
+            "text": "·Peut être équipé d'un lanceur de sphère d'interdiction"
           }, 
           {
             "number": "25%", 
@@ -2299,7 +2299,7 @@
       "role": {
         "bonuses": [
           {
-            "text": "·リモートセンサーダンプナーの効果が増加"
+            "text": "·インターディクションスフィアランチャーを搭載可能"
           }, 
           {
             "number": "25%", 
@@ -2341,7 +2341,7 @@
       "role": {
         "bonuses": [
           {
-            "text": "·원격 센서 댐프너 효과 증가"
+            "text": "·인터딕션 런처 장착 가능"
           }, 
           {
             "number": "25%", 
@@ -2383,7 +2383,7 @@
       "role": {
         "bonuses": [
           {
-            "text": "·повышается эффективность действия модулей подавления захвата целей"
+            "text": "·Можно оснастить системой запуска заградительных сфер"
           }, 
           {
             "number": "на 25%", 
@@ -8942,63 +8942,63 @@
         "bonuses": [
           {
             "number": "33%", 
-            "text": "bonus to Light Missile and Rocket damage"
+            "text": "Bonus auf den Schaden von leichten Lenkwaffen und Raketen"
           }, 
           {
             "number": "95%", 
-            "text": "reduction in Scan Probe Launcher and Survey Probe Launcher CPU requirements"
+            "text": "Reduktion des CPU-Bedarfs für Scansondenwerfer und Vermessungssondenwerfer"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Destroyer Modes are active. Modes may be switched no more than once every 2 seconds."
+            "text": "·Zusätzliche Boni sind verfügbar, während einer der drei Taktischer-Zerstörer-Modi aktiv ist. Modi können nicht öfter als alle 2 Sekunden gewechselt werden."
           }, 
           {
-            "text": "·Defense Mode"
-          }, 
-          {
-            "number": "33.3%", 
-            "text": "bonus to all shield resistances while Defense Mode is enabled"
+            "text": "·Verteidigungsmodus"
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in ship signature radius while Defense Mode is enabled"
+            "text": "Bonus auf alle Schildresistenzen, während der Verteidigungsmodus aktiviert ist"
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in shield recharge time while Defense Mode is enabled"
+            "text": "Reduktion des Signaturradius des Schiffs, während der Verteidigungsmodus aktiviert ist"
           }, 
           {
-            "text": "·Propulsion Mode"
+            "number": "33.3%", 
+            "text": "Reduktion der Wiederaufladezeit des Schildes, während der Verteidigungsmodus aktiviert ist"
           }, 
           {
-            "number": "66.6%", 
-            "text": "bonus to Afterburner and Microwarpdrive speed boost while Propulsion Mode is enabled"
-          }, 
-          {
-            "number": "66.6%", 
-            "text": "bonus to ship inertia modifier while Propulsion Mode is enabled"
-          }, 
-          {
-            "text": "·Sharpshooter Mode"
+            "text": "·Antriebsmodus"
           }, 
           {
             "number": "66.6%", 
-            "text": "bonus to Light Missile velocity while Sharpshooter Mode is enabled"
+            "text": "Bonus auf die Geschwindigkeitsteigerungen von Nachbrenner und Mikrowarpantrieb, während Antriebsmodus aktiviert ist"
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "Bonus auf den Trägheitsmodifikator des Schiffs, während der Antriebsmodus aktiviert ist"
+          }, 
+          {
+            "text": "·Scharfschützenmodus"
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "Bonus auf die Geschwindigkeit von leichten Lenkwaffen, während der Scharfschützenmodus aktiviert ist"
           }, 
           {
             "number": "250%", 
-            "text": "bonus to Rocket velocity while Sharpshooter Mode is enabled"
+            "text": "Bonus auf die Geschwindigkeit von Raketen, während der Scharfschützenmodus aktiviert ist"
           }, 
           {
             "number": "33.3%", 
-            "text": "bonus to Light Missile and Rocket damage while Sharpshooter Mode is enabled"
+            "text": "Bonus auf den Schaden von leichten Lenkwaffen und Raketen, während der Scharfschützenmodus aktiviert ist"
           }, 
           {
             "number": "100%", 
-            "text": "bonus to sensor strength and targeting range while Sharpshooter Mode is enabled"
+            "text": "Bonus auf Sensorstärke und Zielerfassungsreichweite, während der Scharfschützenmodus aktiviert ist"
           }, 
           {
             "number": "66.6%", 
-            "text": "increased resistances against hostile Sensor Dampeners and Weapon Disruptors while Sharpshooter Mode is enabled"
+            "text": "Erhöhte Resistenzen gegen feindliche Sensordämpfer und Waffendisruptoren, während der Scharfschützenmodus aktiviert ist"
           }
         ], 
         "header": "Verschiedene Boni:"
@@ -9007,13 +9007,13 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in powergrid and CPU requirements for Command Bursts"
+            "text": "Reduktion der Stromnetzvoraussetzungen und des CPU-Bedarfs für Kommandostrahlen"
           }, 
           {
-            "text": "·Can fit Micro Jump Field Generators"
+            "text": "·Kann Mikrosprungfeldgeneratoren ausrüsten"
           }, 
           {
-            "text": "·Can use one Command Burst module"
+            "text": "·Kann ein Kommandostrahlen-Modul verwenden"
           }
         ], 
         "header": "Funktionsbonus:"
@@ -9023,11 +9023,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "reduction in Micro Jump Field Generator spool up time"
+              "text": "Reduktion der Hochfahrzeit von Mikrosprungfeldgeneratoren"
             }, 
             {
               "number": "2%", 
-              "text": "bonus to Shield Command and Information Command Burst effect strength and duration"
+              "text": "Bonus auf Effektstärke und Dauer von Schild- und Informationskommandostrahlen"
             }
           ], 
           "header": "Command Destroyers Boni (je Skillstufe):"
@@ -9036,15 +9036,15 @@
           "bonuses": [
             {
               "number": "6%", 
-              "text": "bonus to Light Missile launcher and Rocket launcher rate of fire"
+              "text": "Bonus auf die Feuerrate von Werfern für leichte Lenkwaffen und Raketen"
             }, 
             {
               "number": "15%", 
-              "text": "reduction in missile launcher reload time"
+              "text": "Reduktion der Nachladezeit von Lenkwaffenwerfern"
             }, 
             {
               "number": "5%", 
-              "text": "reduction in module heat damage amount taken"
+              "text": "Reduktion des erlittenen Hitzeschadens am Modul"
             }
           ], 
           "header": "Caldari Tactical Destroyer Boni (je Skillstufe):"
@@ -9170,63 +9170,63 @@
         "bonuses": [
           {
             "number": "33%", 
-            "text": "bonus to Light Missile and Rocket damage"
+            "text": "de bonificación al daño de los misiles ligeros y los cohetes."
           }, 
           {
             "number": "95%", 
-            "text": "reduction in Scan Probe Launcher and Survey Probe Launcher CPU requirements"
+            "text": "de reducción de los requisitos de CPU del lanzasondas de escaneo y el lanzasondas de prospección."
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Destroyer Modes are active. Modes may be switched no more than once every 2 seconds."
+            "text": "·Hay bonificaciones adicionales disponibles mientras uno de los tres modos de destructor táctico está habilitado. No se puede cambiar de modo más de una vez cada 2 segundos."
           }, 
           {
-            "text": "·Defense Mode"
-          }, 
-          {
-            "number": "33.3%", 
-            "text": "bonus to all shield resistances while Defense Mode is enabled"
+            "text": "·Modo de defensa"
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in ship signature radius while Defense Mode is enabled"
+            "text": "de bonificación a todas las resistencias de escudo mientras el modo de defensa está habilitado."
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in shield recharge time while Defense Mode is enabled"
+            "text": "de reducción del radio de la señal de la nave mientras el modo de defensa está habilitado."
           }, 
           {
-            "text": "·Propulsion Mode"
+            "number": "33.3%", 
+            "text": "de reducción del tiempo de recarga de los escudos mientras el modo de defensa está habilitado."
           }, 
           {
-            "number": "66.6%", 
-            "text": "bonus to Afterburner and Microwarpdrive speed boost while Propulsion Mode is enabled"
-          }, 
-          {
-            "number": "66.6%", 
-            "text": "bonus to ship inertia modifier while Propulsion Mode is enabled"
-          }, 
-          {
-            "text": "·Sharpshooter Mode"
+            "text": "·Modo de propulsión"
           }, 
           {
             "number": "66.6%", 
-            "text": "bonus to Light Missile velocity while Sharpshooter Mode is enabled"
+            "text": "de bonificación al impulso de velocidad del posquemador y el motor de microwarp mientras el modo de propulsión está habilitado."
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "de bonificación al modificador de inercia de la nave mientras el modo de propulsión está habilitado."
+          }, 
+          {
+            "text": "·Modo de francotirador"
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "de bonificación a la velocidad de los misiles ligeros mientras el modo de francotirador está habilitado."
           }, 
           {
             "number": "250%", 
-            "text": "bonus to Rocket velocity while Sharpshooter Mode is enabled"
+            "text": "de bonificación a la velocidad de los cohetes mientras el modo de francotirador está habilitado."
           }, 
           {
             "number": "33.3%", 
-            "text": "bonus to Light Missile and Rocket damage while Sharpshooter Mode is enabled"
+            "text": "de bonificación al daño de los misiles ligeros y los cohetes mientras el modo de francotirador está habilitado."
           }, 
           {
             "number": "100%", 
-            "text": "bonus to sensor strength and targeting range while Sharpshooter Mode is enabled"
+            "text": "de bonificación a la intensidad del sensor y la distancia-objetivo mientras el modo de francotirador está habilitado."
           }, 
           {
             "number": "66.6%", 
-            "text": "increased resistances against hostile Sensor Dampeners and Weapon Disruptors while Sharpshooter Mode is enabled"
+            "text": "más resistencia frente a atenuadores de sensor y disruptores de armas hostiles mientras el modo de francotirador está habilitado."
           }
         ], 
         "header": "Bonificación misc.:"
@@ -9235,13 +9235,13 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in powergrid and CPU requirements for Command Bursts"
+            "text": "de reducción de los requisitos del sistema de potencia y CPU para los estallidos de mando."
           }, 
           {
-            "text": "·Can fit Micro Jump Field Generators"
+            "text": "·Es posible equipar generadores de campo de microsalto."
           }, 
           {
-            "text": "·Can use one Command Burst module"
+            "text": "·Es posible equipar un módulo de estallido de mando."
           }
         ], 
         "header": "Bonificación por función:"
@@ -9251,11 +9251,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "reduction in Micro Jump Field Generator spool up time"
+              "text": "de reducción del tiempo de carga del generador de campo de microsalto."
             }, 
             {
               "number": "2%", 
-              "text": "bonus to Shield Command and Information Command Burst effect strength and duration"
+              "text": "de bonificación a la intensidad y la duración del efecto del estallido de mando de escudo y mando de información."
             }
           ], 
           "header": "Bonificaciones de Destructores de mando (por nivel de habilidad):"
@@ -9264,15 +9264,15 @@
           "bonuses": [
             {
               "number": "6%", 
-              "text": "bonus to Light Missile launcher and Rocket launcher rate of fire"
+              "text": "de bonificación a la cadencia de tiro de los lanzamisiles ligeros y los lanzacohetes."
             }, 
             {
               "number": "15%", 
-              "text": "reduction in missile launcher reload time"
+              "text": "de reducción del tiempo de recarga de los lanzamisiles."
             }, 
             {
               "number": "5%", 
-              "text": "reduction in module heat damage amount taken"
+              "text": "de reducción de la cantidad de daño por calor del módulo."
             }
           ], 
           "header": "Bonificaciones de Destructor táctico caldari (por nivel de habilidad):"
@@ -9284,63 +9284,63 @@
         "bonuses": [
           {
             "number": "33%", 
-            "text": "bonus to Light Missile and Rocket damage"
+            "text": "de bonus aux dégâts des missiles légers et des roquettes"
           }, 
           {
             "number": "95%", 
-            "text": "reduction in Scan Probe Launcher and Survey Probe Launcher CPU requirements"
+            "text": "de réduction aux prérequis de CPU pour le lanceur de sonde de balayage et le lanceur de sonde d'exploration"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Destroyer Modes are active. Modes may be switched no more than once every 2 seconds."
+            "text": "·Des bonus supplémentaires sont disponibles lorsque l'un des trois modes de destroyer tactique est actif. Il est possible de changer de mode une seule fois toutes les 2 secondes."
           }, 
           {
-            "text": "·Defense Mode"
-          }, 
-          {
-            "number": "33.3%", 
-            "text": "bonus to all shield resistances while Defense Mode is enabled"
+            "text": "·Mode défense"
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in ship signature radius while Defense Mode is enabled"
+            "text": "de bonus à toutes les résistances du bouclier lorsque le mode défense est activé"
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in shield recharge time while Defense Mode is enabled"
+            "text": "de réduction du rayon de signature du vaisseau lorsque le mode défense est activé"
           }, 
           {
-            "text": "·Propulsion Mode"
+            "number": "33.3%", 
+            "text": "de réduction au temps de recharge du bouclier lorsque mode défense est activé"
           }, 
           {
-            "number": "66.6%", 
-            "text": "bonus to Afterburner and Microwarpdrive speed boost while Propulsion Mode is enabled"
-          }, 
-          {
-            "number": "66.6%", 
-            "text": "bonus to ship inertia modifier while Propulsion Mode is enabled"
-          }, 
-          {
-            "text": "·Sharpshooter Mode"
+            "text": "·Mode propulsion"
           }, 
           {
             "number": "66.6%", 
-            "text": "bonus to Light Missile velocity while Sharpshooter Mode is enabled"
+            "text": "de bonus à l'accélération du système de post-combustion et du propulseur de microwarp lorsque le mode propulsion est activé"
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "de bonus au modificateur d'inertie du vaisseau lorsque le mode propulsion est activé"
+          }, 
+          {
+            "text": "·Mode tireur d'élite"
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "de bonus à la vitesse des missiles légers lorsque le mode tireur d'élite est activé"
           }, 
           {
             "number": "250%", 
-            "text": "bonus to Rocket velocity while Sharpshooter Mode is enabled"
+            "text": "de bonus à la vitesse des roquettes lorsque le mode tireur d'élite est activé"
           }, 
           {
             "number": "33.3%", 
-            "text": "bonus to Light Missile and Rocket damage while Sharpshooter Mode is enabled"
+            "text": "de bonus aux dégâts des missiles légers et des roquettes lorsque le mode tireur d'élite est activé"
           }, 
           {
             "number": "100%", 
-            "text": "bonus to sensor strength and targeting range while Sharpshooter Mode is enabled"
+            "text": "de bonus à la puissance du détecteur et à la portée de ciblage lorsque le mode tireur d'élite est activé"
           }, 
           {
             "number": "66.6%", 
-            "text": "increased resistances against hostile Sensor Dampeners and Weapon Disruptors while Sharpshooter Mode is enabled"
+            "text": "d'augmentation des résistances contre les atténuateurs de détection et les perturbateurs d'armement hostiles lorsque le mode tireur d'élite est activé"
           }
         ], 
         "header": "Bonus divers :"
@@ -9349,13 +9349,13 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in powergrid and CPU requirements for Command Bursts"
+            "text": "de réduction des prérequis de réseau d'alimentation et de CPU pour les salves de commandement"
           }, 
           {
-            "text": "·Can fit Micro Jump Field Generators"
+            "text": "·Peut être équipé de générateurs de champ de microsaut"
           }, 
           {
-            "text": "·Can use one Command Burst module"
+            "text": "·Peut utiliser un module de salve de commandement"
           }
         ], 
         "header": "Bonus de rôle :"
@@ -9365,11 +9365,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "reduction in Micro Jump Field Generator spool up time"
+              "text": "de réduction au temps de réactivation du générateur de champ de microsaut"
             }, 
             {
               "number": "2%", 
-              "text": "bonus to Shield Command and Information Command Burst effect strength and duration"
+              "text": "de bonus à la puissance et la durée des effets des salves de commandement de bouclier et d'information"
             }
           ], 
           "header": " Bonus (par niveau de compétence) Destroyers de commandement :"
@@ -9378,15 +9378,15 @@
           "bonuses": [
             {
               "number": "6%", 
-              "text": "bonus to Light Missile launcher and Rocket launcher rate of fire"
+              "text": "de bonus à la cadence de tir des lance-missiles légers et des lance-roquettes"
             }, 
             {
               "number": "15%", 
-              "text": "reduction in missile launcher reload time"
+              "text": "de réduction du temps de rechargement des lance-missiles"
             }, 
             {
               "number": "5%", 
-              "text": "reduction in module heat damage amount taken"
+              "text": "de réduction aux dégâts thermiques subis par le module"
             }
           ], 
           "header": " Bonus (par niveau de compétence) Destroyer tactique caldari :"
@@ -9512,63 +9512,63 @@
         "bonuses": [
           {
             "number": "33%", 
-            "text": "bonus to Light Missile and Rocket damage"
+            "text": "ライトミサイルおよびロケットのダメージにボーナス"
           }, 
           {
             "number": "95%", 
-            "text": "reduction in Scan Probe Launcher and Survey Probe Launcher CPU requirements"
+            "text": "スキャンプローブランチャーと衛星調査プローブのCPU使用率を軽減"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Destroyer Modes are active. Modes may be switched no more than once every 2 seconds."
+            "text": "·3種類の戦術駆逐艦モードを持ち、有効化したモードに応じて追加ボーナスを得る。少なくとも2秒経過しないとモードを切り替えることはできない。"
           }, 
           {
-            "text": "·Defense Mode"
-          }, 
-          {
-            "number": "33.3%", 
-            "text": "bonus to all shield resistances while Defense Mode is enabled"
+            "text": "·防衛モード"
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in ship signature radius while Defense Mode is enabled"
+            "text": "防衛モード中、全てのシールドレジスタンスにボーナス"
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in shield recharge time while Defense Mode is enabled"
+            "text": "防衛モード中、艦船のシグネチャ半径が縮小"
           }, 
           {
-            "text": "·Propulsion Mode"
+            "number": "33.3%", 
+            "text": "防衛モード中、シールドのリチャージ時間が短縮"
           }, 
           {
-            "number": "66.6%", 
-            "text": "bonus to Afterburner and Microwarpdrive speed boost while Propulsion Mode is enabled"
-          }, 
-          {
-            "number": "66.6%", 
-            "text": "bonus to ship inertia modifier while Propulsion Mode is enabled"
-          }, 
-          {
-            "text": "·Sharpshooter Mode"
+            "text": "·推進モード"
           }, 
           {
             "number": "66.6%", 
-            "text": "bonus to Light Missile velocity while Sharpshooter Mode is enabled"
+            "text": "推進モード中、アフターバーナーとマイクロワープドライブの速度ブーストにボーナス"
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "推進モード中、艦船の慣性乗数にボーナス"
+          }, 
+          {
+            "text": "·射撃モード"
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "射撃モード中、ライトミサイルの速度にボーナス"
           }, 
           {
             "number": "250%", 
-            "text": "bonus to Rocket velocity while Sharpshooter Mode is enabled"
+            "text": "射撃モード中、ロケットの速度にボーナス"
           }, 
           {
             "number": "33.3%", 
-            "text": "bonus to Light Missile and Rocket damage while Sharpshooter Mode is enabled"
+            "text": "射撃モード中、ライトミサイルおよびロケットのダメージにボーナス"
           }, 
           {
             "number": "100%", 
-            "text": "bonus to sensor strength and targeting range while Sharpshooter Mode is enabled"
+            "text": "射撃モード中、センサー強度とターゲット範囲にボーナス"
           }, 
           {
             "number": "66.6%", 
-            "text": "increased resistances against hostile Sensor Dampeners and Weapon Disruptors while Sharpshooter Mode is enabled"
+            "text": "射撃モード中、敵からのセンサーダンプナーと兵器妨害器へのレジスタンスが増加"
           }
         ], 
         "header": "その他のボーナス："
@@ -9577,13 +9577,13 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in powergrid and CPU requirements for Command Bursts"
+            "text": "コマンドバーストのパワーグリッド要件とCPU使用率を軽減"
           }, 
           {
-            "text": "·Can fit Micro Jump Field Generators"
+            "text": "·マイクロジャンプフィールドジェネレーターを装備可能"
           }, 
           {
-            "text": "·Can use one Command Burst module"
+            "text": "·コマンドバーストモジュール1個使用可能"
           }
         ], 
         "header": "性能ボーナス："
@@ -9593,11 +9593,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "reduction in Micro Jump Field Generator spool up time"
+              "text": "超小型ジャンプフィールドジェネレーターのスプールアップタイムを短縮"
             }, 
             {
               "number": "2%", 
-              "text": "bonus to Shield Command and Information Command Burst effect strength and duration"
+              "text": "シールドコマンド、情報戦コマンドのバーストの効果と持続時間が増加"
             }
           ], 
           "header": "指揮型駆逐艦ボーナス(スキルレベルごとに):"
@@ -9606,15 +9606,15 @@
           "bonuses": [
             {
               "number": "6%", 
-              "text": "bonus to Light Missile launcher and Rocket launcher rate of fire"
+              "text": "ライトミサイルランチャーおよびロケットランチャーの発射レートにボーナス"
             }, 
             {
               "number": "15%", 
-              "text": "reduction in missile launcher reload time"
+              "text": "ミサイルランチャーのリロード時間減少"
             }, 
             {
               "number": "5%", 
-              "text": "reduction in module heat damage amount taken"
+              "text": "モジュールが受けるヒートダメージ量が軽減"
             }
           ], 
           "header": "カルダリ戦術駆逐艦ボーナス(スキルレベルごとに):"
@@ -9626,63 +9626,63 @@
         "bonuses": [
           {
             "number": "33%", 
-            "text": "bonus to Light Missile and Rocket damage"
+            "text": "라이트 미사일 및 로켓 피해량 증가"
           }, 
           {
             "number": "95%", 
-            "text": "reduction in Scan Probe Launcher and Survey Probe Launcher CPU requirements"
+            "text": "스캔 프로브 런처 및 조사 프로브 런처 CPU 사용량 감소"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Destroyer Modes are active. Modes may be switched no more than once every 2 seconds."
+            "text": "·세 가지 전술 디스트로이어 모드 중 한 가지가 활성화되면 추가 보너스가 부여됩니다. 2초에 한 번 모드를 전환할 수 있습니다."
           }, 
           {
-            "text": "·Defense Mode"
-          }, 
-          {
-            "number": "33.3%", 
-            "text": "bonus to all shield resistances while Defense Mode is enabled"
+            "text": "·방어 모드"
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in ship signature radius while Defense Mode is enabled"
+            "text": "방어 모드 활성화 중 모든 실드 저항력 증가"
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in shield recharge time while Defense Mode is enabled"
+            "text": "방어 모드 활성화 중 함선 시그니처 반경 감소"
           }, 
           {
-            "text": "·Propulsion Mode"
+            "number": "33.3%", 
+            "text": "방어 모드 활성화 중 실드 충전시간 감소"
           }, 
           {
-            "number": "66.6%", 
-            "text": "bonus to Afterburner and Microwarpdrive speed boost while Propulsion Mode is enabled"
-          }, 
-          {
-            "number": "66.6%", 
-            "text": "bonus to ship inertia modifier while Propulsion Mode is enabled"
-          }, 
-          {
-            "text": "·Sharpshooter Mode"
+            "text": "·추진 모드"
           }, 
           {
             "number": "66.6%", 
-            "text": "bonus to Light Missile velocity while Sharpshooter Mode is enabled"
+            "text": "추진 모드 활성화 중 애프터버너 및 마이크로 워프 드라이브 속도 증가"
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "추진 모드 활성화 중 관성 계수 감소"
+          }, 
+          {
+            "text": "·저격 모드"
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "저격 모드 활성화 중 라이트 미사일 속도 증가"
           }, 
           {
             "number": "250%", 
-            "text": "bonus to Rocket velocity while Sharpshooter Mode is enabled"
+            "text": "저격 모드 활성화 중 로켓 속도 증가"
           }, 
           {
             "number": "33.3%", 
-            "text": "bonus to Light Missile and Rocket damage while Sharpshooter Mode is enabled"
+            "text": "저격 모드 활성화 중 라이트 미사일 및 로켓 피해량 증가"
           }, 
           {
             "number": "100%", 
-            "text": "bonus to sensor strength and targeting range while Sharpshooter Mode is enabled"
+            "text": "저격 모드 활성화 중 센서 강도 및 타겟팅 거리 증가"
           }, 
           {
             "number": "66.6%", 
-            "text": "increased resistances against hostile Sensor Dampeners and Weapon Disruptors while Sharpshooter Mode is enabled"
+            "text": "저격 모드 활성화 중 센서 댐프너 및 무기 디스럽터 저항력 증가"
           }
         ], 
         "header": "기타 보너스:"
@@ -9691,13 +9691,13 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in powergrid and CPU requirements for Command Bursts"
+            "text": "커맨드 버스트 파워그리드 및 CPU 요구치 감소"
           }, 
           {
-            "text": "·Can fit Micro Jump Field Generators"
+            "text": "·마이크로 점프 필드 생성기들을 장착할 수 있음"
           }, 
           {
-            "text": "·Can use one Command Burst module"
+            "text": "·한 개의 커맨드 버스트 모듈만 사용 가능"
           }
         ], 
         "header": "역할 보너스:"
@@ -9707,11 +9707,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "reduction in Micro Jump Field Generator spool up time"
+              "text": "마이크로 점프 필드 생성기 예열 시간 감소"
             }, 
             {
               "number": "2%", 
-              "text": "bonus to Shield Command and Information Command Burst effect strength and duration"
+              "text": "실드 버스트 및 정보전 버스트 강도 및 지속시간 증가"
             }
           ], 
           "header": "커맨드 디스트로이어 보너스 (스킬 레벨당):"
@@ -9720,15 +9720,15 @@
           "bonuses": [
             {
               "number": "6%", 
-              "text": "bonus to Light Missile launcher and Rocket launcher rate of fire"
+              "text": "라이트 미사일 런처 및 로켓 런처 연사속도 증가"
             }, 
             {
               "number": "15%", 
-              "text": "reduction in missile launcher reload time"
+              "text": "미사일 런처 재장전 시간 감소"
             }, 
             {
               "number": "5%", 
-              "text": "reduction in module heat damage amount taken"
+              "text": "모듈이 받는 열 피해 감소"
             }
           ], 
           "header": "칼다리 전술 디스트로이어 보너스 (스킬 레벨당):"
@@ -9740,63 +9740,63 @@
         "bonuses": [
           {
             "number": "на 33%", 
-            "text": "bonus to Light Missile and Rocket damage"
+            "text": "бонус к урону лёгких ракет и ракетных снарядов"
           }, 
           {
             "number": "на 95%", 
-            "text": "reduction in Scan Probe Launcher and Survey Probe Launcher CPU requirements"
+            "text": "снижение требований к мощности ЦП для пусковых установок разведзондов и лунных зондов"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Destroyer Modes are active. Modes may be switched no more than once every 2 seconds."
+            "text": "·Многорежимный эсминец получает дополнительные бонусы при работе в одном из трёх тактический режимов. Промежуток между сменой режимов должен составлять не менее 2 секунд."
           }, 
           {
-            "text": "·Defense Mode"
-          }, 
-          {
-            "number": "на 33.3%", 
-            "text": "bonus to all shield resistances while Defense Mode is enabled"
+            "text": "·Защитный режим"
           }, 
           {
             "number": "на 33.3%", 
-            "text": "reduction in ship signature radius while Defense Mode is enabled"
+            "text": "бонус к общей сопротивляемости щитов в защитном режиме"
           }, 
           {
             "number": "на 33.3%", 
-            "text": "reduction in shield recharge time while Defense Mode is enabled"
+            "text": "сужение радиуса сигнатуры корабля в защитном режиме"
           }, 
           {
-            "text": "·Propulsion Mode"
+            "number": "на 33.3%", 
+            "text": "сокращение времени перезарядки щитов в защитном режиме"
           }, 
           {
-            "number": "на 66.6%", 
-            "text": "bonus to Afterburner and Microwarpdrive speed boost while Propulsion Mode is enabled"
-          }, 
-          {
-            "number": "на 66.6%", 
-            "text": "bonus to ship inertia modifier while Propulsion Mode is enabled"
-          }, 
-          {
-            "text": "·Sharpshooter Mode"
+            "text": "·Режим тяги"
           }, 
           {
             "number": "на 66.6%", 
-            "text": "bonus to Light Missile velocity while Sharpshooter Mode is enabled"
+            "text": "бонус к эффективности форсажного ускорителя и микроварп-ускорителя в режиме тяги"
+          }, 
+          {
+            "number": "на 66.6%", 
+            "text": "бонус к модификатору инертности корабля в режиме тяги"
+          }, 
+          {
+            "text": "·Режим снайпера"
+          }, 
+          {
+            "number": "на 66.6%", 
+            "text": "бонус к скорости полёта лёгких ракет в режиме снайпера"
           }, 
           {
             "number": "на 250%", 
-            "text": "bonus to Rocket velocity while Sharpshooter Mode is enabled"
+            "text": "бонус к скорости ракетных снарядов в режиме снайпера"
           }, 
           {
             "number": "на 33.3%", 
-            "text": "bonus to Light Missile and Rocket damage while Sharpshooter Mode is enabled"
+            "text": "бонус к урону лёгких ракет и ракетных снарядов в режиме снайпера"
           }, 
           {
             "number": "на 100%", 
-            "text": "bonus to sensor strength and targeting range while Sharpshooter Mode is enabled"
+            "text": "бонус к мощности сенсоров и дальности наведения в режиме снайпера"
           }, 
           {
             "number": "на 66.6%", 
-            "text": "increased resistances against hostile Sensor Dampeners and Weapon Disruptors while Sharpshooter Mode is enabled"
+            "text": "повышение сопротивляемости вражеским модулям подавления сенсоров и модулям подавления орудий в режиме снайпера"
           }
         ], 
         "header": "Прочие особенности проекта:"
@@ -9805,13 +9805,13 @@
         "bonuses": [
           {
             "number": "на 95%", 
-            "text": "reduction in powergrid and CPU requirements for Command Bursts"
+            "text": "уменьшение требовательности энергосистем и ЦП для импульсных оптимизаторов"
           }, 
           {
-            "text": "·Can fit Micro Jump Field Generators"
+            "text": "·Позволяет установить генераторы разгонного поля"
           }, 
           {
-            "text": "·Can use one Command Burst module"
+            "text": "·Может использовать один импульсный оптимизатор"
           }
         ], 
         "header": "Профильные особенности проекта:"
@@ -9821,11 +9821,11 @@
           "bonuses": [
             {
               "number": "на 5%", 
-              "text": "reduction in Micro Jump Field Generator spool up time"
+              "text": "сокращение времени раскрутки генератора разгонного поля"
             }, 
             {
               "number": "на 2%", 
-              "text": "bonus to Shield Command and Information Command Burst effect strength and duration"
+              "text": "бонус к выраженности и длительности эффектов импульсных оптимизаторов щитов и РЭБ"
             }
           ], 
           "header": "За каждую степень освоения навыка Лидеры:"
@@ -9834,15 +9834,15 @@
           "bonuses": [
             {
               "number": "на 6%", 
-              "text": "bonus to Light Missile launcher and Rocket launcher rate of fire"
+              "text": "бонус к скорострельности пусковых установок лёгких ракет и ракетных снарядов"
             }, 
             {
               "number": "на 15%", 
-              "text": "reduction in missile launcher reload time"
+              "text": "сокращение времени перезарядки ракетной установки"
             }, 
             {
               "number": "на 5%", 
-              "text": "reduction in module heat damage amount taken"
+              "text": "снижение теплового урона, получаемого модулями"
             }
           ], 
           "header": "За каждую степень освоения навыка Калдарские многорежимные эсминцы:"
@@ -9854,63 +9854,63 @@
         "bonuses": [
           {
             "number": "33%", 
-            "text": "bonus to Light Missile and Rocket damage"
+            "text": "轻型导弹和火箭伤害加成"
           }, 
           {
             "number": "95%", 
-            "text": "reduction in Scan Probe Launcher and Survey Probe Launcher CPU requirements"
+            "text": "扫描探针发射器和测量探针发射器CPU需求降低"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Destroyer Modes are active. Modes may be switched no more than once every 2 seconds."
+            "text": "·当战术驱逐舰启用三种模式中任意一种会获得额外加成。每2秒钟只能切换一次模式。"
           }, 
           {
-            "text": "·Defense Mode"
-          }, 
-          {
-            "number": "33.3%", 
-            "text": "bonus to all shield resistances while Defense Mode is enabled"
+            "text": "·防御模式"
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in ship signature radius while Defense Mode is enabled"
+            "text": "启用防御模式后护盾抗性加成"
           }, 
           {
             "number": "33.3%", 
-            "text": "reduction in shield recharge time while Defense Mode is enabled"
+            "text": "启用防御模式后信号半径降低"
           }, 
           {
-            "text": "·Propulsion Mode"
+            "number": "33.3%", 
+            "text": "启用防御模式后护盾回充时间减少"
           }, 
           {
-            "number": "66.6%", 
-            "text": "bonus to Afterburner and Microwarpdrive speed boost while Propulsion Mode is enabled"
-          }, 
-          {
-            "number": "66.6%", 
-            "text": "bonus to ship inertia modifier while Propulsion Mode is enabled"
-          }, 
-          {
-            "text": "·Sharpshooter Mode"
+            "text": "·高速模式"
           }, 
           {
             "number": "66.6%", 
-            "text": "bonus to Light Missile velocity while Sharpshooter Mode is enabled"
+            "text": "启用高速模式后加力燃烧器和微型跃迁推进器的速度增量加成"
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "启用高速模式后舰船惯性调整系数加成"
+          }, 
+          {
+            "text": "·狙击模式"
+          }, 
+          {
+            "number": "66.6%", 
+            "text": "启用狙击模式后轻型导弹飞行速度加成"
           }, 
           {
             "number": "250%", 
-            "text": "bonus to Rocket velocity while Sharpshooter Mode is enabled"
+            "text": "启用狙击模式后火箭飞行速度加成"
           }, 
           {
             "number": "33.3%", 
-            "text": "bonus to Light Missile and Rocket damage while Sharpshooter Mode is enabled"
+            "text": "启用狙击模式后轻型导弹和火箭伤害加成"
           }, 
           {
             "number": "100%", 
-            "text": "bonus to sensor strength and targeting range while Sharpshooter Mode is enabled"
+            "text": "启用狙击模式后感应强度和锁定距离加成"
           }, 
           {
             "number": "66.6%", 
-            "text": "increased resistances against hostile Sensor Dampeners and Weapon Disruptors while Sharpshooter Mode is enabled"
+            "text": "启用狙击模式后对敌方的感应抑阻器和武器扰断器的抗性提高"
           }
         ], 
         "header": "其它加成："
@@ -9919,13 +9919,13 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in powergrid and CPU requirements for Command Bursts"
+            "text": "指挥脉冲波能量栅格和CPU需求降低"
           }, 
           {
-            "text": "·Can fit Micro Jump Field Generators"
+            "text": "·可以装配微型跳跃力场发生器"
           }, 
           {
-            "text": "·Can use one Command Burst module"
+            "text": "·可以装配一个指挥脉冲波装备"
           }
         ], 
         "header": "特有加成："
@@ -9935,11 +9935,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "reduction in Micro Jump Field Generator spool up time"
+              "text": "微型跳跃力场发生器加速时间减少"
             }, 
             {
               "number": "2%", 
-              "text": "bonus to Shield Command and Information Command Burst effect strength and duration"
+              "text": "护盾指挥和信息战指挥脉冲波强度和持续时间加成"
             }
           ], 
           "header": "指挥驱逐舰操作每升一级："
@@ -9948,15 +9948,15 @@
           "bonuses": [
             {
               "number": "6%", 
-              "text": "bonus to Light Missile launcher and Rocket launcher rate of fire"
+              "text": "轻型导弹发射器和火箭发射器射速加成"
             }, 
             {
               "number": "15%", 
-              "text": "reduction in missile launcher reload time"
+              "text": "导弹发射器装填时间缩短"
             }, 
             {
               "number": "5%", 
-              "text": "reduction in module heat damage amount taken"
+              "text": "减少装备遭受的超载损伤"
             }
           ], 
           "header": "加达里战术驱逐舰操作每升一级："
@@ -22656,7 +22656,7 @@
           }, 
           {
             "number": "10+", 
-            "text": "Bonus auf die Bergungseahrscheinlichkeit von Bergungsdrohnen"
+            "text": "Bonus auf die Bergungswahrscheinlichkeit von Bergungsdrohnen"
           }
         ], 
         "header": "Funktionsbonus:"
@@ -23024,7 +23024,7 @@
           }, 
           {
             "number": "10+", 
-            "text": "额外奖励打捞无人机挽救机会"
+            "text": "打捞无人机获取成功率加成"
           }
         ], 
         "header": "特有加成："
@@ -29197,7 +29197,7 @@
           }, 
           {
             "number": "-12.5%", 
-            "text": "冰矿采集器运转周期"
+            "text": "气云采集器运转周期"
           }
         ], 
         "header": "特有加成："
@@ -29219,7 +29219,7 @@
             }, 
             {
               "number": "-3%", 
-              "text": "冰矿采集器运转周期"
+              "text": "气云采集器运转周期"
             }
           ], 
           "header": "采矿驳船操作每升一级："
@@ -29236,7 +29236,7 @@
             }, 
             {
               "number": "-3%", 
-              "text": "冰矿采集器运转周期"
+              "text": "气云采集器运转周期"
             }, 
             {
               "number": "4%", 
@@ -30196,7 +30196,7 @@
             }, 
             {
               "number": "-3%", 
-              "text": "冰矿采集器运转周期"
+              "text": "气云采集器运转周期"
             }, 
             {
               "number": "2%", 
@@ -38239,14 +38239,6 @@
             "text": "Bonus auf die maximale Geschwindigkeit des Schiffs beim Einsatz von Tarnvorrichtungen"
           }, 
           {
-            "number": "100%", 
-            "text": "Bonus auf die HP der Schilderweiterung"
-          }, 
-          {
-            "number": "50%", 
-            "text": "Bonus auf die HP der Panzerplatte"
-          }, 
-          {
             "number": "5%", 
             "text": "zusätzlicher Bonus auf HP der Verstärkten Schottwand"
           }
@@ -38270,7 +38262,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "10%", 
               "text": "Bonus auf die Feuerrate von schnellen schweren Lenkwaffen-, Marschflugkörper- und Torpedo-Werfern"
             }, 
             {
@@ -38307,14 +38299,6 @@
             "text": "bonus to ship max velocity when using Cloaking Devices"
           }, 
           {
-            "number": "100%", 
-            "text": "bonus to Shield Extender hitpoints"
-          }, 
-          {
-            "number": "50%", 
-            "text": "bonus to Armor Plate hitpoints"
-          }, 
-          {
             "number": "5%", 
             "text": "additional bonus to Reinforced Bulkhead hitpoints"
           }
@@ -38338,7 +38322,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "10%", 
               "text": "bonus to Rapid Heavy Missile, Cruise Missile and Torpedo Launcher rate of fire"
             }, 
             {
@@ -38375,14 +38359,6 @@
             "text": "de bonificación a la velocidad máxima de la nave al utilizar dispositivos de camuflaje."
           }, 
           {
-            "number": "100%", 
-            "text": "de bonificación a los puntos de vida del extensor de escudo."
-          }, 
-          {
-            "number": "50%", 
-            "text": "de bonificación a los puntos de vida de las placas de blindaje."
-          }, 
-          {
             "number": "5%", 
             "text": "de bonificación adicional a los puntos de vida del mamparo reforzado."
           }
@@ -38406,7 +38382,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "10%", 
               "text": "de bonificación a la cadencia de tiro rápida de los lanzamisiles pesados, los lanzamisiles de crucero y los lanzatorpedos."
             }, 
             {
@@ -38443,14 +38419,6 @@
             "text": "de bonus à la vitesse maximale d'un vaisseau lorsqu'équipé d'un dispositif de camouflage actif"
           }, 
           {
-            "number": "100%", 
-            "text": "de bonus aux points de vie de l'extenseur de bouclier"
-          }, 
-          {
-            "number": "50%", 
-            "text": "de bonus aux points de vie du revêtement de blindage"
-          }, 
-          {
             "number": "5%", 
             "text": "de bonus supplémentaire aux points de vie de la cloison renforcée"
           }
@@ -38474,7 +38442,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "10%", 
               "text": "de bonus à la cadence de tir des lance-missiles lourds, lance-missiles de croisière et lance-torpilles rapides"
             }, 
             {
@@ -38511,14 +38479,6 @@
             "text": "bonus to ship max velocity when using Cloaking Devices"
           }, 
           {
-            "number": "100%", 
-            "text": "bonus to Shield Extender hitpoints"
-          }, 
-          {
-            "number": "50%", 
-            "text": "bonus to Armor Plate hitpoints"
-          }, 
-          {
             "number": "5%", 
             "text": "additional bonus to Reinforced Bulkhead hitpoints"
           }
@@ -38542,7 +38502,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "10%", 
               "text": "bonus to Rapid Heavy Missile, Cruise Missile and Torpedo Launcher rate of fire"
             }, 
             {
@@ -38579,14 +38539,6 @@
             "text": "遮蔽装置使用時の艦船の最高速度が上昇"
           }, 
           {
-            "number": "100%", 
-            "text": "シールドエクステンダーHPが増加"
-          }, 
-          {
-            "number": "50%", 
-            "text": "アーマープレートHPが増加"
-          }, 
-          {
             "number": "5%", 
             "text": "強化隔壁HPがさらに増加"
           }
@@ -38610,7 +38562,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "10%", 
               "text": "高速ヘビーミサイル・クルーズミサイル・トルピードランチャーの発射間隔が短縮"
             }, 
             {
@@ -38647,14 +38599,6 @@
             "text": "클로킹 장치 사용 시 함선 최대 속도 증가"
           }, 
           {
-            "number": "100%", 
-            "text": "실드 확장장치 실드량 증가"
-          }, 
-          {
-            "number": "50%", 
-            "text": "장갑 플레이트 내구도 증가"
-          }, 
-          {
             "number": "5%", 
             "text": "강화 격벽 내구도 증가"
           }
@@ -38678,7 +38622,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "10%", 
               "text": "급속 헤비 미사일, 크루즈 미사일, 토피도 런처 연사속도 증가"
             }, 
             {
@@ -38715,14 +38659,6 @@
             "text": "бонус к максимальной скорости хода при использовании устройств маскировки"
           }, 
           {
-            "number": "на 100%", 
-            "text": "бонус к прочности расширителя щитов"
-          }, 
-          {
-            "number": "на 50%", 
-            "text": "бонус к прочности бронеплиты"
-          }, 
-          {
             "number": "на 5%", 
             "text": "дополнительный бонус к прочности укреплённой переборки"
           }
@@ -38746,7 +38682,7 @@
         {
           "bonuses": [
             {
-              "number": "на 7.5%", 
+              "number": "на 10%", 
               "text": "повышается скорострельность торпедных аппаратов, ПУ дальнобойных ракет, скорострельных ПУ тяжёлых ракет"
             }, 
             {
@@ -38783,14 +38719,6 @@
             "text": "使用隐形装置时舰船的最大速度加成"
           }, 
           {
-            "number": "100%", 
-            "text": "护盾扩展装置护盾值加成"
-          }, 
-          {
-            "number": "50%", 
-            "text": "装甲附甲板装甲值加成"
-          }, 
-          {
             "number": "5%", 
             "text": "强化舱隔壁结构值加成"
           }
@@ -38814,7 +38742,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "10%", 
               "text": "重型快速导弹、巡航导弹和鱼雷发射器射速加成"
             }, 
             {
@@ -38854,14 +38782,6 @@
             "text": "Bonus auf die maximale Geschwindigkeit des Schiffs beim Einsatz von Tarnvorrichtungen"
           }, 
           {
-            "number": "100%", 
-            "text": "Bonus auf die HP der Schilderweiterung"
-          }, 
-          {
-            "number": "50%", 
-            "text": "Bonus auf die HP der Panzerplatte"
-          }, 
-          {
             "number": "5%", 
             "text": "zusätzlicher Bonus auf HP der Verstärkten Schottwand"
           }, 
@@ -38892,7 +38812,7 @@
         {
           "bonuses": [
             {
-              "number": "10%", 
+              "number": "20%", 
               "text": "Bonus auf den Schaden von großen Hybridgeschütztürmen"
             }, 
             {
@@ -38929,14 +38849,6 @@
             "text": "bonus to ship max velocity when using Cloaking Devices"
           }, 
           {
-            "number": "100%", 
-            "text": "bonus to Shield Extender hitpoints"
-          }, 
-          {
-            "number": "50%", 
-            "text": "bonus to Armor Plate hitpoints"
-          }, 
-          {
             "number": "5%", 
             "text": "additional bonus to Reinforced Bulkhead hitpoints"
           }, 
@@ -38967,7 +38879,7 @@
         {
           "bonuses": [
             {
-              "number": "10%", 
+              "number": "20%", 
               "text": "bonus to Large Hybrid Turret damage"
             }, 
             {
@@ -39004,14 +38916,6 @@
             "text": "de bonificación a la velocidad máxima de la nave al utilizar dispositivos de camuflaje."
           }, 
           {
-            "number": "100%", 
-            "text": "de bonificación a los puntos de vida del extensor de escudo."
-          }, 
-          {
-            "number": "50%", 
-            "text": "de bonificación a los puntos de vida de las placas de blindaje."
-          }, 
-          {
             "number": "5%", 
             "text": "de bonificación adicional a los puntos de vida del mamparo reforzado."
           }, 
@@ -39042,7 +38946,7 @@
         {
           "bonuses": [
             {
-              "number": "10%", 
+              "number": "20%", 
               "text": "de bonificación al daño de la torreta híbrida grande."
             }, 
             {
@@ -39079,14 +38983,6 @@
             "text": "de bonus à la vitesse maximale d'un vaisseau lorsqu'équipé d'un dispositif de camouflage actif"
           }, 
           {
-            "number": "100%", 
-            "text": "de bonus aux points de vie de l'extenseur de bouclier"
-          }, 
-          {
-            "number": "50%", 
-            "text": "de bonus aux points de vie du revêtement de blindage"
-          }, 
-          {
             "number": "5%", 
             "text": "de bonus supplémentaire aux points de vie de la cloison renforcée"
           }, 
@@ -39117,7 +39013,7 @@
         {
           "bonuses": [
             {
-              "number": "10%", 
+              "number": "20%", 
               "text": "de bonus aux dégâts des grandes tourelles hybrides"
             }, 
             {
@@ -39154,14 +39050,6 @@
             "text": "bonus to ship max velocity when using Cloaking Devices"
           }, 
           {
-            "number": "100%", 
-            "text": "bonus to Shield Extender hitpoints"
-          }, 
-          {
-            "number": "50%", 
-            "text": "bonus to Armor Plate hitpoints"
-          }, 
-          {
             "number": "5%", 
             "text": "additional bonus to Reinforced Bulkhead hitpoints"
           }, 
@@ -39192,7 +39080,7 @@
         {
           "bonuses": [
             {
-              "number": "10%", 
+              "number": "20%", 
               "text": "bonus to Large Hybrid Turret damage"
             }, 
             {
@@ -39229,14 +39117,6 @@
             "text": "遮蔽装置使用時の艦船の最高速度が上昇"
           }, 
           {
-            "number": "100%", 
-            "text": "シールドエクステンダーHPが増加"
-          }, 
-          {
-            "number": "50%", 
-            "text": "アーマープレートHPが増加"
-          }, 
-          {
             "number": "5%", 
             "text": "強化隔壁HPがさらに増加"
           }, 
@@ -39267,7 +39147,7 @@
         {
           "bonuses": [
             {
-              "number": "10%", 
+              "number": "20%", 
               "text": "大型ハイブリッドタレットのダメージが増加"
             }, 
             {
@@ -39304,14 +39184,6 @@
             "text": "클로킹 장치 사용 시 함선 최대 속도 증가"
           }, 
           {
-            "number": "100%", 
-            "text": "실드 확장장치 실드량 증가"
-          }, 
-          {
-            "number": "50%", 
-            "text": "장갑 플레이트 내구도 증가"
-          }, 
-          {
             "number": "5%", 
             "text": "강화 격벽 내구도 증가"
           }, 
@@ -39342,7 +39214,7 @@
         {
           "bonuses": [
             {
-              "number": "10%", 
+              "number": "20%", 
               "text": "대형 하이브리드 터렛 피해량 증가"
             }, 
             {
@@ -39379,14 +39251,6 @@
             "text": "бонус к максимальной скорости хода при использовании устройств маскировки"
           }, 
           {
-            "number": "на 100%", 
-            "text": "бонус к прочности расширителя щитов"
-          }, 
-          {
-            "number": "на 50%", 
-            "text": "бонус к прочности бронеплиты"
-          }, 
-          {
             "number": "на 5%", 
             "text": "дополнительный бонус к прочности укреплённой переборки"
           }, 
@@ -39417,7 +39281,7 @@
         {
           "bonuses": [
             {
-              "number": "на 10%", 
+              "number": "на 20%", 
               "text": "увеличивается урон боеприпасов больших гибридных орудий"
             }, 
             {
@@ -39454,14 +39318,6 @@
             "text": "使用隐形装置时舰船的最大速度加成"
           }, 
           {
-            "number": "100%", 
-            "text": "护盾扩展装置护盾值加成"
-          }, 
-          {
-            "number": "50%", 
-            "text": "装甲附甲板装甲值加成"
-          }, 
-          {
             "number": "5%", 
             "text": "强化舱隔壁结构值加成"
           }, 
@@ -39492,7 +39348,7 @@
         {
           "bonuses": [
             {
-              "number": "10%", 
+              "number": "20%", 
               "text": "大型混合炮台伤害加成"
             }, 
             {
@@ -42304,11 +42160,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "Bonus auf den Schaden durch Große Hybridgeschütztürme, Große Energiegeschütztürme und Große Projektilgeschütztürme"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "Bonus auf den Schaden durch schwere Lenkwaffen, Marschflugkörper und Torpedos"
           }, 
           {
@@ -42327,11 +42183,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Large Hybrid Turret, Large Energy Turret and Large Projectile Turret damage"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Heavy Missile, Cruise Missile and Torpedo damage"
           }, 
           {
@@ -42350,11 +42206,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonificación al daño de la torreta híbrida grande, la torreta de energía grande y la torreta de proyectiles grande."
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonificación al daño de los misiles pesados, los misiles de crucero y los torpedos."
           }, 
           {
@@ -42373,11 +42229,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonus aux dégâts des grandes tourelles hybrides, des grandes tourelles à énergie et des grandes tourelles à projectiles"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonus aux dégâts des missiles lourds, des missiles de croisière et des torpilles"
           }, 
           {
@@ -42396,11 +42252,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Large Hybrid Turret, Large Energy Turret and Large Projectile Turret damage"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Heavy Missile, Cruise Missile and Torpedo damage"
           }, 
           {
@@ -42419,11 +42275,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "大型ハイブリッドタレット、大型エネルギータレット、大型実体弾タレットのダメージにボーナス"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "ヘビーミサイル、クルーズミサイル及びトルピードのダメージにボーナス"
           }, 
           {
@@ -42442,11 +42298,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "대형 하이브리드 터렛, 대형 에너지 터렛 및 대형 발사체 터렛 피해량 증가"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "헤비 미사일, 크루즈 미사일, 토피도 피해량 증가"
           }, 
           {
@@ -42465,11 +42321,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "на 25%", 
+            "number": "на 20%", 
             "text": "бонус к урону от больших гибридных турелей, больших энергетических турелей и больших баллистических турелей"
           }, 
           {
-            "number": "на 25%", 
+            "number": "на 20%", 
             "text": "увеличивается урон тяжёлых ракет, дальнобойных ракет и торпед"
           }, 
           {
@@ -42488,11 +42344,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "大型混合炮台、大型能量炮台和大型射弹炮台伤害加成"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "重型导弹、巡航导弹和鱼雷伤害加成"
           }, 
           {
@@ -45667,7 +45523,7 @@
             "text": "бонус к силе вируса анализаторов данных и артефактов"
           }, 
           {
-            "text": "·Возможна установка внережимной системы маскировки"
+            "text": "·Возможна установка всережимной системы маскировки"
           }, 
           {
             "text": "·Задержка повторного включения систем маскировки снижена до 15 секунд"
@@ -47932,7 +47788,7 @@
       "role": {
         "bonuses": [
           {
-            "text": "·可装配联网感应器阵列"
+            "text": "·可装配集成传感器阵列"
           }, 
           {
             "text": "·可以装配旗舰级微型跳跃引擎和旗舰级微型跳跃力场发生器"
@@ -49771,14 +49627,6 @@
             "text": "Bonus auf die maximale Geschwindigkeit des Schiffs beim Einsatz von Tarnvorrichtungen"
           }, 
           {
-            "number": "100%", 
-            "text": "Bonus auf die HP der Schilderweiterung"
-          }, 
-          {
-            "number": "50%", 
-            "text": "Bonus auf die HP der Panzerplatte"
-          }, 
-          {
             "number": "5%", 
             "text": "zusätzlicher Bonus auf HP der Verstärkten Schottwand"
           }
@@ -49789,7 +49637,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "15%", 
               "text": "Bonus auf die Nachführung von großen Projektilwaffentürmen"
             }, 
             {
@@ -49839,14 +49687,6 @@
             "text": "bonus to ship max velocity when using Cloaking Devices"
           }, 
           {
-            "number": "100%", 
-            "text": "bonus to Shield Extender hitpoints"
-          }, 
-          {
-            "number": "50%", 
-            "text": "bonus to Armor Plate hitpoints"
-          }, 
-          {
             "number": "5%", 
             "text": "additional bonus to Reinforced Bulkhead hitpoints"
           }
@@ -49857,8 +49697,8 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
-              "text": "bonus to Large Projectile Turret tracking"
+              "number": "15%", 
+              "text": "bonus to Heavy Stasis Grappler falloff range"
             }, 
             {
               "number": "7.5%", 
@@ -49907,14 +49747,6 @@
             "text": "de bonificación a la velocidad máxima de la nave al utilizar dispositivos de camuflaje."
           }, 
           {
-            "number": "100%", 
-            "text": "de bonificación a los puntos de vida del extensor de escudo."
-          }, 
-          {
-            "number": "50%", 
-            "text": "de bonificación a los puntos de vida de las placas de blindaje."
-          }, 
-          {
             "number": "5%", 
             "text": "de bonificación adicional a los puntos de vida del mamparo reforzado."
           }
@@ -49925,7 +49757,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "15%", 
               "text": "de bonificación al rastreo de la torreta de proyectiles grande."
             }, 
             {
@@ -49975,14 +49807,6 @@
             "text": "de bonus à la vitesse maximale d'un vaisseau lorsqu'équipé d'un dispositif de camouflage actif"
           }, 
           {
-            "number": "100%", 
-            "text": "de bonus aux points de vie de l'extenseur de bouclier"
-          }, 
-          {
-            "number": "50%", 
-            "text": "de bonus aux points de vie du revêtement de blindage"
-          }, 
-          {
             "number": "5%", 
             "text": "de bonus supplémentaire aux points de vie de la cloison renforcée"
           }
@@ -49993,7 +49817,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "15%", 
               "text": "de bonus à la poursuite des grandes tourelles à projectiles"
             }, 
             {
@@ -50043,14 +49867,6 @@
             "text": "bonus to ship max velocity when using Cloaking Devices"
           }, 
           {
-            "number": "100%", 
-            "text": "bonus to Shield Extender hitpoints"
-          }, 
-          {
-            "number": "50%", 
-            "text": "bonus to Armor Plate hitpoints"
-          }, 
-          {
             "number": "5%", 
             "text": "additional bonus to Reinforced Bulkhead hitpoints"
           }
@@ -50061,8 +49877,8 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
-              "text": "bonus to Large Projectile Turret tracking"
+              "number": "15%", 
+              "text": "bonus to Heavy Stasis Grappler falloff range"
             }, 
             {
               "number": "7.5%", 
@@ -50111,14 +49927,6 @@
             "text": "遮蔽装置使用時の艦船の最高速度が上昇"
           }, 
           {
-            "number": "100%", 
-            "text": "シールドエクステンダーHPが増加"
-          }, 
-          {
-            "number": "50%", 
-            "text": "アーマープレートHPが増加"
-          }, 
-          {
             "number": "5%", 
             "text": "強化隔壁HPがさらに増加"
           }
@@ -50129,7 +49937,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "15%", 
               "text": "大型プロジェクタイルタレットのトラッキング能力が上昇"
             }, 
             {
@@ -50179,14 +49987,6 @@
             "text": "클로킹 장치 사용 시 함선 최대 속도 증가"
           }, 
           {
-            "number": "100%", 
-            "text": "실드 확장장치 실드량 증가"
-          }, 
-          {
-            "number": "50%", 
-            "text": "장갑 플레이트 내구도 증가"
-          }, 
-          {
             "number": "5%", 
             "text": "강화 격벽 내구도 증가"
           }
@@ -50197,7 +49997,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "15%", 
               "text": "대형 발사체 터렛 트래킹 속도 증가"
             }, 
             {
@@ -50247,14 +50047,6 @@
             "text": "бонус к максимальной скорости хода при использовании устройств маскировки"
           }, 
           {
-            "number": "на 100%", 
-            "text": "бонус к прочности расширителя щитов"
-          }, 
-          {
-            "number": "на 50%", 
-            "text": "бонус к прочности бронеплиты"
-          }, 
-          {
             "number": "на 5%", 
             "text": "дополнительный бонус к прочности укреплённой переборки"
           }
@@ -50265,7 +50057,7 @@
         {
           "bonuses": [
             {
-              "number": "на 7.5%", 
+              "number": "на 15%", 
               "text": "бонус к скорости наведения баллистических орудий большого калибра"
             }, 
             {
@@ -50315,14 +50107,6 @@
             "text": "使用隐形装置时舰船的最大速度加成"
           }, 
           {
-            "number": "100%", 
-            "text": "护盾扩展装置护盾值加成"
-          }, 
-          {
-            "number": "50%", 
-            "text": "装甲附甲板装甲值加成"
-          }, 
-          {
             "number": "5%", 
             "text": "强化舱隔壁结构值加成"
           }
@@ -50333,7 +50117,7 @@
         {
           "bonuses": [
             {
-              "number": "7.5%", 
+              "number": "15%", 
               "text": "大型射弹炮台跟踪速度加成"
             }, 
             {
@@ -65156,7 +64940,7 @@
             }, 
             {
               "number": "-2%", 
-              "text": "冰矿采集器运转周期"
+              "text": "气云采集器运转周期"
             }
           ], 
           "header": "采矿驳船操作每升一级："
@@ -65989,7 +65773,7 @@
             "text": "·На кораблях этого типа устранена задержка включения систем захвата целей, вызываемая отключением систем маскировки"
           }, 
           {
-            "text": "·Возможна установка внережимной системы маскировки, приводного маяка скрытого действия и бомбометателя"
+            "text": "·Возможна установка всережимной системы маскировки, приводного маяка скрытого действия и бомбометателя"
           }, 
           {
             "text": "·Задержка повторного включения систем маскировки сокращена до 15 секунд"
@@ -88736,10 +88520,10 @@
           }, 
           {
             "number": "90%", 
-            "text": "reduction in Capital Flex Shield Hardener capacitor activation cost and powergrid requirements"
+            "text": "旗舰级弯曲护盾增强器启动消耗减少和能量栅格需求降低"
           }, 
           {
-            "text": "·Unable to use Cloaking Device modules"
+            "text": "·无法使用隐形装置 装备"
           }, 
           {
             "text": "·可以绕过一般舰船限制，直接连接到轨道天钩试剂储藏库"
@@ -88752,7 +88536,7 @@
           "bonuses": [
             {
               "number": "10%", 
-              "text": "bonus to missile damage"
+              "text": "导弹伤害加成"
             }, 
             {
               "number": "10%", 
@@ -88760,7 +88544,7 @@
             }, 
             {
               "number": "20%", 
-              "text": "bonus to Auto-Targeting missile damage"
+              "text": "自动锁定导弹伤害加成"
             }
           ], 
           "header": "昇威货舰每升一级："
@@ -89250,13 +89034,13 @@
             "text": "减少对重型导弹、重型攻击导弹和快速轻型导弹发射器的CPU和能量栅格的装配要求"
           }, 
           {
-            "text": "·Can fit Covert Ops Cloaking Device and Covert Cynosural Field Generator"
+            "text": "·可以装配隐秘行动隐形装置和隐秘诱导力场发生器"
           }, 
           {
-            "text": "·Cloak reactivation delay reduced to 5 seconds"
+            "text": "·隐形装置重启延时降到5秒"
           }, 
           {
-            "text": "·Immune to all Cargo Scanners"
+            "text": "·免疫货舱扫描"
           }, 
           {
             "number": "90%", 
@@ -89281,7 +89065,7 @@
             }, 
             {
               "number": "15%", 
-              "text": "bonus to missile damage"
+              "text": "导弹伤害加成"
             }
           ], 
           "header": "昇威运载舰每升一级："
@@ -89290,11 +89074,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "bonus to warp speed and warp acceleration"
+              "text": "跃迁速度和跃迁加速加成"
             }, 
             {
               "number": "20%", 
-              "text": "reduction in Cloaking Devices CPU requirement"
+              "text": "隐形装置CPU需求降低"
             }
           ], 
           "header": "运输舰操作每升一级："
@@ -89745,11 +89529,11 @@
           }, 
           {
             "number": "2+", 
-            "text": "bonus to ship warp core strength"
+            "text": "舰船跃迁核心强度加成"
           }, 
           {
             "number": "100%", 
-            "text": "bonus to the benefits of overheating Afterburners, Microwarpdrives, Local Repair Modules, Resistance Modules, Nosferatu Modules and Energy Neutralizer Modules"
+            "text": "加力燃烧器、微型跃迁推进器、自身维修装备、抗性提升装备、掠能器和能量中和器超载后获得的效果提升增加"
           }, 
           {
             "number": "90%", 
@@ -89770,7 +89554,7 @@
             }, 
             {
               "number": "25%", 
-              "text": "bonus to missile damage"
+              "text": "导弹伤害加成"
             }
           ], 
           "header": "昇威运载舰每升一级："
@@ -89783,7 +89567,7 @@
             }, 
             {
               "number": "4%", 
-              "text": "bonus to all shield resistances"
+              "text": "护盾抗性加成"
             }
           ], 
           "header": "运输舰操作每升一级："
@@ -90605,6 +90389,243 @@
         "bonuses": [
           {
             "number": "100%", 
+            "text": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung"
+          }, 
+          {
+            "number": "100%", 
+            "text": "Bonus auf die Dauer des Anti-Unterbrechers"
+          }, 
+          {
+            "number": "100%", 
+            "text": "Reduktion der CPU-Anforderung von Tarnmodulen"
+          }, 
+          {
+            "text": "·Kann Covert-Ops-Tarnvorrichtung ausrüsten"
+          }, 
+          {
+            "number": "80%", 
+            "text": "Reduktion in der Reaktivierungsverzögerung des Anti-Unterbrechers und max. Erfassungsreichweitenabzug"
+          }
+        ], 
+        "header": "Funktionsbonus:"
+      }
+    }, 
+    "traits_en-us": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "bonus to warp speed and warp acceleration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "bonus to Interdiction Nullifier duration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "reduction in Cloaking Devices CPU requirement"
+          }, 
+          {
+            "text": "·Can fit Covert Ops Cloaking Device"
+          }, 
+          {
+            "number": "80%", 
+            "text": "reduction in Interdiction Nullifier reactivation delay and max lock range penalty"
+          }
+        ], 
+        "header": "Role Bonus:"
+      }
+    }, 
+    "traits_es": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "de bonificación a la velocidad y la aceleración de warp."
+          }, 
+          {
+            "number": "100%", 
+            "text": "de bonificación a la duración del anulador de interdicción."
+          }, 
+          {
+            "number": "100%", 
+            "text": "de reducción del requisito de CPU de los dispositivos de camuflaje."
+          }, 
+          {
+            "text": "·Es posible equipar un dispositivo de camuflaje de operaciones encubiertas."
+          }, 
+          {
+            "number": "80%", 
+            "text": "de reducción de la demora de reactivación y de penalización al alcance de fijación máximo del anulador de interdicción."
+          }
+        ], 
+        "header": "Bonificación por función:"
+      }
+    }, 
+    "traits_fr": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "de bonus à la vitesse de warp et à l'accélération de warp"
+          }, 
+          {
+            "number": "100%", 
+            "text": "de bonus à la durée de la contremesure d’interdiction"
+          }, 
+          {
+            "number": "100%", 
+            "text": "de réduction du CPU requis par les dispositifs de camouflage"
+          }, 
+          {
+            "text": "·Peut utiliser un dispositif de camouflage opérations secrètes"
+          }, 
+          {
+            "number": "80%", 
+            "text": "de réduction au délai de réactivation de la contremesure d’interdiction et à la pénalité de portée de verrouillage maximale"
+          }
+        ], 
+        "header": "Bonus de rôle :"
+      }
+    }, 
+    "traits_it": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "bonus to warp speed and warp acceleration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "bonus to Interdiction Nullifier duration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "reduction in Cloaking Devices CPU requirement"
+          }, 
+          {
+            "text": "·Can fit Covert Ops Cloaking Device"
+          }, 
+          {
+            "number": "80%", 
+            "text": "reduction in Interdiction Nullifier reactivation delay and max lock range penalty"
+          }
+        ], 
+        "header": "Role Bonus:"
+      }
+    }, 
+    "traits_ja": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "ワープ速度とワープ加速度が上昇"
+          }, 
+          {
+            "number": "100%", 
+            "text": "インターディクション無効化の持続時間にボーナス"
+          }, 
+          {
+            "number": "100%", 
+            "text": "遮蔽装置の必要CPUが減少"
+          }, 
+          {
+            "text": "·光学迷彩型遮蔽装置を装備可能"
+          }, 
+          {
+            "number": "80%", 
+            "text": "インターディクション無効化の再起動遅延と最大ロック射程のペナルティ減少"
+          }
+        ], 
+        "header": "性能ボーナス："
+      }
+    }, 
+    "traits_ko": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "워프 속도 및 워프 가속도 증가"
+          }, 
+          {
+            "number": "100%", 
+            "text": "인터딕션 널리파이어 지속시간 보너스"
+          }, 
+          {
+            "number": "100%", 
+            "text": "클로킹 장치 CPU 사용량 감소"
+          }, 
+          {
+            "text": "·코버트 옵스 클로킹 장치 장착 가능"
+          }, 
+          {
+            "number": "80%", 
+            "text": "인터딕션 널리파이어 재활성화 대기시간 및 최대 타겟팅 거리 페널티 감소"
+          }
+        ], 
+        "header": "역할 보너스:"
+      }
+    }, 
+    "traits_ru": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "на 100%", 
+            "text": "бонус к разгону и скорости хода (в варп-режиме)"
+          }, 
+          {
+            "number": "на 100%", 
+            "text": "бонус к длительности действия нейтрализатора варп-заграждений"
+          }, 
+          {
+            "number": "на 100%", 
+            "text": "снижение требований к ЦПУ для систем маскировки"
+          }, 
+          {
+            "text": "·Возможна установка внережимной системы маскировки"
+          }, 
+          {
+            "number": "на 80%", 
+            "text": "уменьшение задержки повторного включения нейтрализатора варп-заграждений и штрафа к максимальной дальности захвата цели"
+          }
+        ], 
+        "header": "Профильные особенности проекта:"
+      }
+    }, 
+    "traits_zh": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "跃迁速度和跃迁加速加成"
+          }, 
+          {
+            "number": "100%", 
+            "text": "拦截失效装置持续时间加成"
+          }, 
+          {
+            "number": "100%", 
+            "text": "隐形装置CPU需求降低"
+          }, 
+          {
+            "text": "·可以装配隐形特勤舰隐形装置"
+          }, 
+          {
+            "number": "80%", 
+            "text": "拦截失效装置重启延迟和最大锁定距离惩罚降低"
+          }
+        ], 
+        "header": "特有加成："
+      }
+    }, 
+    "typeID": 92284
+  }, 
+  {
+    "traits_de": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
             "text": "Bonus auf die Ausbeute beim Bergbau und bei Gaswolken-Extraktoren"
           }, 
           {
@@ -91252,6 +91273,480 @@
       ]
     }, 
     "typeID": 11971
+  }, 
+  {
+    "traits_de": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung"
+          }, 
+          {
+            "number": "100%", 
+            "text": "Bonus auf die Dauer des Anti-Unterbrechers"
+          }, 
+          {
+            "number": "100%", 
+            "text": "Reduktion der CPU-Anforderung von Tarnmodulen"
+          }, 
+          {
+            "text": "·Kann Covert-Ops-Tarnvorrichtung ausrüsten"
+          }, 
+          {
+            "number": "80%", 
+            "text": "Reduktion in der Reaktivierungsverzögerung des Anti-Unterbrechers und max. Erfassungsreichweitenabzug"
+          }
+        ], 
+        "header": "Funktionsbonus:"
+      }
+    }, 
+    "traits_en-us": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "bonus to warp speed and warp acceleration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "bonus to Interdiction Nullifier duration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "reduction in Cloaking Devices CPU requirement"
+          }, 
+          {
+            "text": "·Can fit Covert Ops Cloaking Device"
+          }, 
+          {
+            "number": "80%", 
+            "text": "reduction in Interdiction Nullifier reactivation delay and max lock range penalty"
+          }
+        ], 
+        "header": "Role Bonus:"
+      }
+    }, 
+    "traits_es": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "de bonificación a la velocidad y la aceleración de warp."
+          }, 
+          {
+            "number": "100%", 
+            "text": "de bonificación a la duración del anulador de interdicción."
+          }, 
+          {
+            "number": "100%", 
+            "text": "de reducción del requisito de CPU de los dispositivos de camuflaje."
+          }, 
+          {
+            "text": "·Es posible equipar un dispositivo de camuflaje de operaciones encubiertas."
+          }, 
+          {
+            "number": "80%", 
+            "text": "de reducción de la demora de reactivación y de penalización al alcance de fijación máximo del anulador de interdicción."
+          }
+        ], 
+        "header": "Bonificación por función:"
+      }
+    }, 
+    "traits_fr": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "de bonus à la vitesse de warp et à l'accélération de warp"
+          }, 
+          {
+            "number": "100%", 
+            "text": "de bonus à la durée de la contremesure d’interdiction"
+          }, 
+          {
+            "number": "100%", 
+            "text": "de réduction du CPU requis par les dispositifs de camouflage"
+          }, 
+          {
+            "text": "·Peut utiliser un dispositif de camouflage opérations secrètes"
+          }, 
+          {
+            "number": "80%", 
+            "text": "de réduction au délai de réactivation de la contremesure d’interdiction et à la pénalité de portée de verrouillage maximale"
+          }
+        ], 
+        "header": "Bonus de rôle :"
+      }
+    }, 
+    "traits_it": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "bonus to warp speed and warp acceleration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "bonus to Interdiction Nullifier duration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "reduction in Cloaking Devices CPU requirement"
+          }, 
+          {
+            "text": "·Can fit Covert Ops Cloaking Device"
+          }, 
+          {
+            "number": "80%", 
+            "text": "reduction in Interdiction Nullifier reactivation delay and max lock range penalty"
+          }
+        ], 
+        "header": "Role Bonus:"
+      }
+    }, 
+    "traits_ja": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "ワープ速度とワープ加速度が上昇"
+          }, 
+          {
+            "number": "100%", 
+            "text": "インターディクション無効化の持続時間にボーナス"
+          }, 
+          {
+            "number": "100%", 
+            "text": "遮蔽装置の必要CPUが減少"
+          }, 
+          {
+            "text": "·光学迷彩型遮蔽装置を装備可能"
+          }, 
+          {
+            "number": "80%", 
+            "text": "インターディクション無効化の再起動遅延と最大ロック射程のペナルティ減少"
+          }
+        ], 
+        "header": "性能ボーナス："
+      }
+    }, 
+    "traits_ko": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "워프 속도 및 워프 가속도 증가"
+          }, 
+          {
+            "number": "100%", 
+            "text": "인터딕션 널리파이어 지속시간 보너스"
+          }, 
+          {
+            "number": "100%", 
+            "text": "클로킹 장치 CPU 사용량 감소"
+          }, 
+          {
+            "text": "·코버트 옵스 클로킹 장치 장착 가능"
+          }, 
+          {
+            "number": "80%", 
+            "text": "인터딕션 널리파이어 재활성화 대기시간 및 최대 타겟팅 거리 페널티 감소"
+          }
+        ], 
+        "header": "역할 보너스:"
+      }
+    }, 
+    "traits_ru": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "на 100%", 
+            "text": "бонус к разгону и скорости хода (в варп-режиме)"
+          }, 
+          {
+            "number": "на 100%", 
+            "text": "бонус к длительности действия нейтрализатора варп-заграждений"
+          }, 
+          {
+            "number": "на 100%", 
+            "text": "снижение требований к ЦПУ для систем маскировки"
+          }, 
+          {
+            "text": "·Возможна установка внережимной системы маскировки"
+          }, 
+          {
+            "number": "на 80%", 
+            "text": "уменьшение задержки повторного включения нейтрализатора варп-заграждений и штрафа к максимальной дальности захвата цели"
+          }
+        ], 
+        "header": "Профильные особенности проекта:"
+      }
+    }, 
+    "traits_zh": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "跃迁速度和跃迁加速加成"
+          }, 
+          {
+            "number": "100%", 
+            "text": "拦截失效装置持续时间加成"
+          }, 
+          {
+            "number": "100%", 
+            "text": "隐形装置CPU需求降低"
+          }, 
+          {
+            "text": "·可以装配隐形特勤舰隐形装置"
+          }, 
+          {
+            "number": "80%", 
+            "text": "拦截失效装置重启延迟和最大锁定距离惩罚降低"
+          }
+        ], 
+        "header": "特有加成："
+      }
+    }, 
+    "typeID": 92282
+  }, 
+  {
+    "traits_de": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "Bonus auf die Warpgeschwindigkeit und Warpbeschleunigung"
+          }, 
+          {
+            "number": "100%", 
+            "text": "Bonus auf die Dauer des Anti-Unterbrechers"
+          }, 
+          {
+            "number": "100%", 
+            "text": "Reduktion der CPU-Anforderung von Tarnmodulen"
+          }, 
+          {
+            "text": "·Kann Covert-Ops-Tarnvorrichtung ausrüsten"
+          }, 
+          {
+            "number": "80%", 
+            "text": "Reduktion in der Reaktivierungsverzögerung des Anti-Unterbrechers und max. Erfassungsreichweitenabzug"
+          }
+        ], 
+        "header": "Funktionsbonus:"
+      }
+    }, 
+    "traits_en-us": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "bonus to warp speed and warp acceleration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "bonus to Interdiction Nullifier duration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "reduction in Cloaking Devices CPU requirement"
+          }, 
+          {
+            "text": "·Can fit Covert Ops Cloaking Device"
+          }, 
+          {
+            "number": "80%", 
+            "text": "reduction in Interdiction Nullifier reactivation delay and max lock range penalty"
+          }
+        ], 
+        "header": "Role Bonus:"
+      }
+    }, 
+    "traits_es": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "de bonificación a la velocidad y la aceleración de warp."
+          }, 
+          {
+            "number": "100%", 
+            "text": "de bonificación a la duración del anulador de interdicción."
+          }, 
+          {
+            "number": "100%", 
+            "text": "de reducción del requisito de CPU de los dispositivos de camuflaje."
+          }, 
+          {
+            "text": "·Es posible equipar un dispositivo de camuflaje de operaciones encubiertas."
+          }, 
+          {
+            "number": "80%", 
+            "text": "de reducción de la demora de reactivación y de penalización al alcance de fijación máximo del anulador de interdicción."
+          }
+        ], 
+        "header": "Bonificación por función:"
+      }
+    }, 
+    "traits_fr": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "de bonus à la vitesse de warp et à l'accélération de warp"
+          }, 
+          {
+            "number": "100%", 
+            "text": "de bonus à la durée de la contremesure d’interdiction"
+          }, 
+          {
+            "number": "100%", 
+            "text": "de réduction du CPU requis par les dispositifs de camouflage"
+          }, 
+          {
+            "text": "·Peut utiliser un dispositif de camouflage opérations secrètes"
+          }, 
+          {
+            "number": "80%", 
+            "text": "de réduction au délai de réactivation de la contremesure d’interdiction et à la pénalité de portée de verrouillage maximale"
+          }
+        ], 
+        "header": "Bonus de rôle :"
+      }
+    }, 
+    "traits_it": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "bonus to warp speed and warp acceleration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "bonus to Interdiction Nullifier duration"
+          }, 
+          {
+            "number": "100%", 
+            "text": "reduction in Cloaking Devices CPU requirement"
+          }, 
+          {
+            "text": "·Can fit Covert Ops Cloaking Device"
+          }, 
+          {
+            "number": "80%", 
+            "text": "reduction in Interdiction Nullifier reactivation delay and max lock range penalty"
+          }
+        ], 
+        "header": "Role Bonus:"
+      }
+    }, 
+    "traits_ja": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "ワープ速度とワープ加速度が上昇"
+          }, 
+          {
+            "number": "100%", 
+            "text": "インターディクション無効化の持続時間にボーナス"
+          }, 
+          {
+            "number": "100%", 
+            "text": "遮蔽装置の必要CPUが減少"
+          }, 
+          {
+            "text": "·光学迷彩型遮蔽装置を装備可能"
+          }, 
+          {
+            "number": "80%", 
+            "text": "インターディクション無効化の再起動遅延と最大ロック射程のペナルティ減少"
+          }
+        ], 
+        "header": "性能ボーナス："
+      }
+    }, 
+    "traits_ko": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "워프 속도 및 워프 가속도 증가"
+          }, 
+          {
+            "number": "100%", 
+            "text": "인터딕션 널리파이어 지속시간 보너스"
+          }, 
+          {
+            "number": "100%", 
+            "text": "클로킹 장치 CPU 사용량 감소"
+          }, 
+          {
+            "text": "·코버트 옵스 클로킹 장치 장착 가능"
+          }, 
+          {
+            "number": "80%", 
+            "text": "인터딕션 널리파이어 재활성화 대기시간 및 최대 타겟팅 거리 페널티 감소"
+          }
+        ], 
+        "header": "역할 보너스:"
+      }
+    }, 
+    "traits_ru": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "на 100%", 
+            "text": "бонус к разгону и скорости хода (в варп-режиме)"
+          }, 
+          {
+            "number": "на 100%", 
+            "text": "бонус к длительности действия нейтрализатора варп-заграждений"
+          }, 
+          {
+            "number": "на 100%", 
+            "text": "снижение требований к ЦПУ для систем маскировки"
+          }, 
+          {
+            "text": "·Возможна установка внережимной системы маскировки"
+          }, 
+          {
+            "number": "на 80%", 
+            "text": "уменьшение задержки повторного включения нейтрализатора варп-заграждений и штрафа к максимальной дальности захвата цели"
+          }
+        ], 
+        "header": "Профильные особенности проекта:"
+      }
+    }, 
+    "traits_zh": {
+      "role": {
+        "bonuses": [
+          {
+            "number": "100%", 
+            "text": "跃迁速度和跃迁加速加成"
+          }, 
+          {
+            "number": "100%", 
+            "text": "拦截失效装置持续时间加成"
+          }, 
+          {
+            "number": "100%", 
+            "text": "隐形装置CPU需求降低"
+          }, 
+          {
+            "text": "·可以装配隐形特勤舰隐形装置"
+          }, 
+          {
+            "number": "80%", 
+            "text": "拦截失效装置重启延迟和最大锁定距离惩罚降低"
+          }
+        ], 
+        "header": "特有加成："
+      }
+    }, 
+    "typeID": 92283
   }, 
   {
     "traits_de": {
@@ -96820,7 +97315,7 @@
             "text": "·Корабли этого типа могут включать до двух импульсных оптимизаторов"
           }, 
           {
-            "text": "·Возможна установка внережимной системы маскировки"
+            "text": "·Возможна установка всережимной системы маскировки"
           }, 
           {
             "text": "·Задержка повторного включения систем маскировки снижена до 15 секунд"
@@ -98827,6 +99322,10 @@
               "text": "Bonus auf alle Schildresistenzen"
             }, 
             {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "Bonus auf Stärke und Dauer von Schildkommando- und Informationkommandostrahlen"
             }
@@ -98871,11 +99370,15 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "bonus to Remote Capacitor Transmitter and Capital Remote Shield Booster amount"
+              "text": "bonus to Capital Remote Shield Booster and Remote Capacitor Transmitter amount"
             }, 
             {
               "number": "4%", 
               "text": "bonus to all shield resistances"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -98929,6 +99432,10 @@
               "text": "de bonificación a todas las resistencias de escudo."
             }, 
             {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "de bonificación a la intensidad y la duración del estallido de mando de escudo y de mando de información."
             }
@@ -98980,6 +99487,10 @@
               "text": "de bonus à toutes les résistances de bouclier"
             }, 
             {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "de bonus à la puissance et à la durée des salves de commandement des boucliers et de commandement électronique."
             }
@@ -99024,11 +99535,15 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "bonus to Remote Capacitor Transmitter and Capital Remote Shield Booster amount"
+              "text": "bonus to Capital Remote Shield Booster and Remote Capacitor Transmitter amount"
             }, 
             {
               "number": "4%", 
               "text": "bonus to all shield resistances"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -99082,6 +99597,10 @@
               "text": "全てのシールドレジスタンスが増加"
             }, 
             {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "シールドコマンドバーストと情報戦コマンドバーストの強度と持続時間が上昇"
             }
@@ -99131,6 +99650,10 @@
             {
               "number": "4%", 
               "text": "모든 실드 저항력 증가"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -99184,6 +99707,10 @@
               "text": "повышается сопротивляемость щитов корабля всем видам воздействия"
             }, 
             {
+              "number": "на 20%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "на 1%", 
               "text": "повышается эффективность и длительность действия импульсов, генерируемых импульсными оптимизаторами щитов и импульсными оптимизаторами РЭБ"
             }
@@ -99233,6 +99760,10 @@
             {
               "number": "4%", 
               "text": "护盾抗性加成"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -99289,6 +99820,10 @@
               "text": "Bonus auf alle Panzerungsresistenzen"
             }, 
             {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "Bonus auf Stärke und Dauer von Panzerungkommando- und Informationkommandostrahlen"
             }
@@ -99338,6 +99873,10 @@
             {
               "number": "4%", 
               "text": "bonus to all armor resistances"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -99391,6 +99930,10 @@
               "text": "de bonificación a todas las resistencias de blindaje."
             }, 
             {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "de bonificación a la intensidad y la duración del estallido de mando de blindaje y de mando de información."
             }
@@ -99440,6 +99983,10 @@
             {
               "number": "4%", 
               "text": "de bonus à toutes les résistances de blindage"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -99493,6 +100040,10 @@
               "text": "bonus to all armor resistances"
             }, 
             {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "bonus to Armored Command and Information Command burst strength and duration"
             }
@@ -99542,6 +100093,10 @@
             {
               "number": "4%", 
               "text": "全てのアーマーレジスタンスが増加"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -99595,6 +100150,10 @@
               "text": "모든 장갑 저항력 증가"
             }, 
             {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "장갑 버스트 및 정보전 버스트 효과 강화 및 지속시간 증가"
             }
@@ -99646,6 +100205,10 @@
               "text": "повышается сопротивляемость брони корабля всем видам воздействия"
             }, 
             {
+              "number": "на 20%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "на 1%", 
               "text": "повышается эффективность и длительность действия импульсов, генерируемых импульсными оптимизаторами брони и импульсными оптимизаторами РЭБ"
             }
@@ -99695,6 +100258,10 @@
             {
               "number": "4%", 
               "text": "装甲抗性加成"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -99751,6 +100318,10 @@
               "text": "Bonus auf die Leistung von Panzerungsreparatursystemen und Energiespeicherboostern"
             }, 
             {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "Bonus auf Stärke und Dauer von Panzerungkommando- und Gefechtkommandostrahlen"
             }
@@ -99799,7 +100370,11 @@
             }, 
             {
               "number": "7.5%", 
-              "text": "bonus to Armor Repairer and Capacitor Booster amount"
+              "text": "bonus to Armor Repairer amount"
+            }, 
+            {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -99853,6 +100428,10 @@
               "text": "de bonificación a la eficiencia de los reparadores de blindaje y los potenciadores de condensador."
             }, 
             {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "de bonificación a la intensidad y la duración del estallido de mando de blindaje y de mando de escaramuza."
             }
@@ -99904,6 +100483,10 @@
               "text": "de bonus aux montants du réparateur de blindage et du booster de capaciteur"
             }, 
             {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "de bonus à la puissance et à la durée des salves de commandement blindé et de commandement tactique."
             }
@@ -99952,7 +100535,11 @@
             }, 
             {
               "number": "7.5%", 
-              "text": "bonus to Armor Repairer and Capacitor Booster amount"
+              "text": "bonus to Armor Repairer amount"
+            }, 
+            {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -100006,6 +100593,10 @@
               "text": "アーマーリペアラとキャパシタブースターの量が上昇"
             }, 
             {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "アーマードコマンドバーストと機動戦コマンドバーストの強度と持続時間が上昇"
             }
@@ -100055,6 +100646,10 @@
             {
               "number": "7.5%", 
               "text": "장갑수리 장치 및 캐패시터 부스터 회복량 증가"
+            }, 
+            {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -100108,6 +100703,10 @@
               "text": "бонус к эффективности ремонта брони и инъектора накопителя"
             }, 
             {
+              "number": "на 30%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "на 1%", 
               "text": "повышается эффективность и длительность действия импульсов, генерируемых импульсными оптимизаторами брони и импульсными оптимизаторами маневрирования"
             }
@@ -100157,6 +100756,10 @@
             {
               "number": "7.5%", 
               "text": "装甲维修器维修量和电容注电器回充量加成"
+            }, 
+            {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -100213,6 +100816,10 @@
               "text": "Bonus auf die Leistung von Schildboostern und Energiespeicherboostern"
             }, 
             {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "Bonus auf Stärke und Dauer von Schildkommando- und Gefechtkommandostrahlen"
             }
@@ -100261,7 +100868,11 @@
             }, 
             {
               "number": "7.5%", 
-              "text": "bonus to Shield Booster and Capacitor Booster amount"
+              "text": "bonus to Shield Booster amount"
+            }, 
+            {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -100315,6 +100926,10 @@
               "text": "de bonificación a la eficiencia de los potenciadores de escudo y los potenciadores de condensador."
             }, 
             {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "de bonificación a la intensidad y la duración del estallido de mando de escudo y de mando de escaramuza."
             }
@@ -100366,6 +100981,10 @@
               "text": "de bonus aux montants du booster de bouclier et du booster de capaciteur"
             }, 
             {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "de bonus à la puissance et à la durée des salves de commandement des boucliers et de commandement tactique."
             }
@@ -100414,7 +101033,11 @@
             }, 
             {
               "number": "7.5%", 
-              "text": "bonus to Shield Booster and Capacitor Booster amount"
+              "text": "bonus to Shield Booster amount"
+            }, 
+            {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -100468,6 +101091,10 @@
               "text": "シールドブースター及びキャパシタブースターの量が上昇"
             }, 
             {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "1%", 
               "text": "シールドコマンドバーストと機動戦コマンドバーストの強度と持続時間が上昇"
             }
@@ -100517,6 +101144,10 @@
             {
               "number": "7.5%", 
               "text": "실드 부스터 및 캐패시터 부스터 회복량 증가"
+            }, 
+            {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -100570,6 +101201,10 @@
               "text": "бонус к эффективности восстановителя щитов и инъектора накопителя"
             }, 
             {
+              "number": "на 30%", 
+              "text": "bonus to Capacitor Booster amount "
+            }, 
+            {
               "number": "на 1%", 
               "text": "повышается эффективность и длительность действия импульсов, генерируемых импульсными оптимизаторами щитов и импульсными оптимизаторами маневрирования"
             }
@@ -100619,6 +101254,10 @@
             {
               "number": "7.5%", 
               "text": "护盾回充增量器和电容注电器回充量加成"
+            }, 
+            {
+              "number": "30%", 
+              "text": "bonus to Capacitor Booster amount "
             }, 
             {
               "number": "1%", 
@@ -100981,7 +101620,7 @@
           }, 
           {
             "number": "-12.5%", 
-            "text": "冰矿采集器运转周期"
+            "text": "气云采集器运转周期"
           }
         ], 
         "header": "特有加成："
@@ -100999,7 +101638,7 @@
             }, 
             {
               "number": "-2%", 
-              "text": "冰矿采集器运转周期"
+              "text": "气云采集器运转周期"
             }, 
             {
               "number": "5%", 
@@ -103171,7 +103810,7 @@
           }, 
           {
             "number": "-30%", 
-            "text": "冰矿采集器运转周期"
+            "text": "气云采集器运转周期"
           }
         ], 
         "header": "特有加成："
@@ -103189,7 +103828,7 @@
             }, 
             {
               "number": "-3%", 
-              "text": "冰矿采集器运转周期"
+              "text": "气云采集器运转周期"
             }, 
             {
               "number": "6%", 
@@ -104077,11 +104716,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "Bonus auf dem Schaden von kleinen Energiegeschütztürmen, kleinen Hybridgeschütztürmen und kleinen Projektilgeschütztürmen"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "Bonus auf den Schaden von leichten Lenkwaffen und Raketen"
           }, 
           {
@@ -104100,11 +104739,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Small Energy Turret, Small Hybrid Turret and Small Projectile Turret damage"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Light Missile and Rockets damage"
           }, 
           {
@@ -104123,11 +104762,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonificación al daño de la torreta de energía pequeña, la torreta híbrida pequeña y la torreta de proyectiles pequeña."
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonificación al daño de los misiles ligeros y los cohetes."
           }, 
           {
@@ -104146,11 +104785,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonus aux dégâts des petites tourelles à énergie, des petites tourelles hybrides et des petites tourelles à projectiles"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonus aux dégâts des missiles légers et des roquettes"
           }, 
           {
@@ -104169,11 +104808,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Small Energy Turret, Small Hybrid Turret and Small Projectile Turret damage"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Light Missile and Rockets damage"
           }, 
           {
@@ -104192,11 +104831,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "小型エネルギータレット、小型ハイブリッドタレット、小型プロジェクタイルタレットのダメージが増加"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "ライトミサイルとロケットのダメージが増加"
           }, 
           {
@@ -104215,11 +104854,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "소형 에너지 터렛, 소형 하이브리드 터렛, 소형 발사체 터렛 피해량 증가"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "라이트 미사일 및 로켓 피해량 증가"
           }, 
           {
@@ -104238,11 +104877,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "на 25%", 
+            "number": "на 20%", 
             "text": "увеличивается урон малых лазерных орудий, малых гибридных орудий и малых баллистических орудий"
           }, 
           {
-            "number": "на 25%", 
+            "number": "на 20%", 
             "text": "увеличивается урон БЧ лёгких ракет и лёгких штурмовых ракет"
           }, 
           {
@@ -104261,11 +104900,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "小型能量炮台、小型混合炮台和小型射弹炮台伤害加成"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "轻型导弹和火箭伤害加成"
           }, 
           {
@@ -111179,63 +111818,63 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher powergrid requirement"
+            "text": "Reduktion der Stromnetzvoraussetzung von Werfern für schnelle schwere Lenkwaffen, Marschflugkörperwerfern und Torpedowerfern"
           }, 
           {
             "number": "50%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher CPU requirement"
+            "text": "Reduktion des CPU-Bedarfs von Werfern für schnelle schwere Lenkwaffen, Marschflugkörperwerfern und Torpedowerfern"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Modes are active. Modes may be switched no more than once every 10 seconds."
+            "text": "·Zusätzliche Boni sind verfügbar, während einer der drei taktischen Modi aktiv ist. Modi können nicht öfter als alle 10 Sekunden gewechselt werden."
           }, 
           {
-            "text": "·Primary Mode"
+            "text": "·Primärmodus"
           }, 
           {
             "number": "250%", 
-            "text": "bonus to lock range while Primary Mode is enabled"
+            "text": "Bonus auf die Zielerfassungsreichweite, während Primärmodus aktiviert ist"
           }, 
           {
             "number": "33.3%", 
-            "text": "decrease in missile velocity while Primary Mode is enabled"
+            "text": "Verringerung der Lenkwaffengeschwindigkeit, während der Primärmodus aktiviert ist"
           }, 
           {
             "number": "1000%", 
-            "text": "increase in missile flight time while Primary Mode is enabled"
+            "text": "Erhöhung der Flugdauer von Lenkwaffen, während der Primärmodus aktiviert ist"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Primary Mode is enabled"
+            "text": "Bonus auf die Feuerrate von Werfern für schnelle schwere Lenkwaffen, Marschflugkörperwerfern und Torpedowerfern, während der Primärmodus aktiviert ist"
           }, 
           {
-            "text": "·Secondary Mode"
-          }, 
-          {
-            "number": "50%", 
-            "text": "decrease in missile flight time while Secondary Mode is enabled"
+            "text": "·Sekundärmodus"
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Secondary Mode is enabled"
+            "text": "Verringerung der Flugdauer von Lenkwaffen, während Sekundärmodus aktiviert ist"
           }, 
           {
-            "text": "·Tertiary Mode"
+            "number": "50%", 
+            "text": "Bonus auf die Feuerrate von Werfern für schnelle schwere Lenkwaffen, Marschflugkörperwerfern und Torpedowerfern, während der Sekundärmodus aktiviert ist"
+          }, 
+          {
+            "text": "·Tertiärmodus"
           }, 
           {
             "number": "90%", 
-            "text": "reduction in Micro Jump Drive reactivation delay while Tertiary Mode is enabled"
+            "text": "Reduktion der Reaktivierungsverzögerung des Mikrosprungantriebs, während der Tertiärmodus aktiviert ist"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to ship inertia modifier while Tertiary Mode is enabled"
+            "text": "Bonus auf den Trägheitsmodifikator des Schiffs, während der Tertiärmodus aktiviert ist"
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Heavy Missile, Cruise Missile and Torpedo velocity while Tertiary Mode is enabled"
+            "text": "Bonus auf die Geschwindigkeit von schweren Lenkwaffen, Marschflugkörpern und Torpedos, während der Tertiärmodus aktiviert ist"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Tertiary Mode is enabled"
+            "text": "Bonus auf die Feuerrate von Werfern für schnelle schwere Lenkwaffen, Marschflugkörperwerfern und Torpedowerfern, während der Tertiärmodus aktiviert ist"
           }
         ], 
         "header": "Funktionsbonus:"
@@ -111245,11 +111884,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion velocity"
+              "text": "Bonus auf die Explosionsgeschwindigkeit von Marschflugkörpern und Torpedos"
             }, 
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion radius"
+              "text": "Bonus auf den Explosionsradius von Marschflugkörpern und Torpedos"
             }
           ], 
           "header": "Caldari Battlecruiser Boni (je Skillstufe):"
@@ -111343,63 +111982,63 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher powergrid requirement"
+            "text": "de reducción al requisito de sistema de potencia de los lanzamisiles pesados rápidos, los lanzamisiles de crucero y los lanzatorpedos."
           }, 
           {
             "number": "50%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher CPU requirement"
+            "text": "de reducción al requisito de CPU de los lanzamisiles pesados rápidos, los lanzamisiles de crucero y los lanzatorpedos."
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Modes are active. Modes may be switched no more than once every 10 seconds."
+            "text": "·Hay bonificaciones adicionales disponibles mientras uno de los tres modos tácticos está habilitado. No se puede cambiar de modo más de una vez cada 10 segundos."
           }, 
           {
-            "text": "·Primary Mode"
+            "text": "·Modo principal"
           }, 
           {
             "number": "250%", 
-            "text": "bonus to lock range while Primary Mode is enabled"
+            "text": "de bonificación al alcance de fijación mientras el modo principal está habilitado."
           }, 
           {
             "number": "33.3%", 
-            "text": "decrease in missile velocity while Primary Mode is enabled"
+            "text": "de reducción de la velocidad de los misiles mientras el modo principal está habilitado."
           }, 
           {
             "number": "1000%", 
-            "text": "increase in missile flight time while Primary Mode is enabled"
+            "text": "de aumento del tiempo de vuelo de misiles mientras el modo principal está habilitado."
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Primary Mode is enabled"
+            "text": "de bonificación a la cadencia de tiro de los lanzamisiles pesados rápidos, los lanzamisiles de crucero y los lanzatorpedos mientras el modo principal está habilitado."
           }, 
           {
-            "text": "·Secondary Mode"
-          }, 
-          {
-            "number": "50%", 
-            "text": "decrease in missile flight time while Secondary Mode is enabled"
+            "text": "·Modo secundario"
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Secondary Mode is enabled"
+            "text": "de reducción del tiempo de vuelo de los misiles mientras el modo secundario está habilitado."
           }, 
           {
-            "text": "·Tertiary Mode"
+            "number": "50%", 
+            "text": "de bonificación a la cadencia de tiro de los lanzamisiles pesados rápidos, los lanzamisiles de crucero y los lanzatorpedos mientras el modo secundario está habilitado."
+          }, 
+          {
+            "text": "·Modo terciario"
           }, 
           {
             "number": "90%", 
-            "text": "reduction in Micro Jump Drive reactivation delay while Tertiary Mode is enabled"
+            "text": "de reducción de la demora de reactivación del motor de microsalto mientras el modo terciario está habilitado."
           }, 
           {
             "number": "25%", 
-            "text": "bonus to ship inertia modifier while Tertiary Mode is enabled"
+            "text": "de bonificación al modificador de inercia de la nave mientras el modo terciario está habilitado."
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Heavy Missile, Cruise Missile and Torpedo velocity while Tertiary Mode is enabled"
+            "text": "de bonificación a la velocidad de los misiles pesados, los misiles de crucero y los torpedos mientras el modo terciario está habilitado."
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Tertiary Mode is enabled"
+            "text": "de bonificación a la cadencia de tiro de los lanzamisiles pesados rápidos, los lanzamisiles de crucero y los lanzatorpedos mientras el modo terciario está habilitado."
           }
         ], 
         "header": "Bonificación por función:"
@@ -111409,11 +112048,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion velocity"
+              "text": "de bonificación a la velocidad de explosión de los misiles de crucero y los torpedos."
             }, 
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion radius"
+              "text": "de bonificación al radio de explosión de los misiles de crucero y los torpedos."
             }
           ], 
           "header": "Bonificaciones de Crucero de combate caldari (por nivel de habilidad):"
@@ -111425,63 +112064,63 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher powergrid requirement"
+            "text": "de réduction des prérequis de réseau d'alimentation pour le lance-missile lourd rapide, le lance-missiles de croisière et le lance-torpilles"
           }, 
           {
             "number": "50%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher CPU requirement"
+            "text": "de réduction des prérequis de CPU pour le lance-missile lourd rapide, le lance-missiles de croisière et le lance-torpilles"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Modes are active. Modes may be switched no more than once every 10 seconds."
+            "text": "·Des bonus supplémentaires sont disponibles lorsque l'un des trois modes tactiques est actif. Il est possible de changer de mode une seule fois toutes les 10 secondes."
           }, 
           {
-            "text": "·Primary Mode"
+            "text": "·Mode primaire"
           }, 
           {
             "number": "250%", 
-            "text": "bonus to lock range while Primary Mode is enabled"
+            "text": "de bonus à la portée de verrouillage lorsque le mode primaire est activé"
           }, 
           {
             "number": "33.3%", 
-            "text": "decrease in missile velocity while Primary Mode is enabled"
+            "text": "de réduction à la vitesse des missiles lorsque le mode primaire est activé"
           }, 
           {
             "number": "1000%", 
-            "text": "increase in missile flight time while Primary Mode is enabled"
+            "text": "d'augmentation du temps de vol des missiles lorsque le mode primaire est activé"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Primary Mode is enabled"
+            "text": "de bonus à la cadence de tir du lance-missile lourd rapide, du lance-missiles de croisière et du lance-torpilles lorsque le mode primaire est activé"
           }, 
           {
-            "text": "·Secondary Mode"
-          }, 
-          {
-            "number": "50%", 
-            "text": "decrease in missile flight time while Secondary Mode is enabled"
+            "text": "·Mode secondaire"
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Secondary Mode is enabled"
+            "text": "de réduction au temps de vol des missiles lorsque le mode secondaire est activé"
           }, 
           {
-            "text": "·Tertiary Mode"
+            "number": "50%", 
+            "text": "de bonus à la cadence de tir du lance-missile lourd rapide, du lance-missiles de croisière et du lance-torpilles lorsque le mode secondaire est activé"
+          }, 
+          {
+            "text": "·Mode tertiaire"
           }, 
           {
             "number": "90%", 
-            "text": "reduction in Micro Jump Drive reactivation delay while Tertiary Mode is enabled"
+            "text": "de réduction au délai de réactivation du propulseur de microsaut lorsque le mode tertiaire est activé"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to ship inertia modifier while Tertiary Mode is enabled"
+            "text": "de bonus au modificateur d'inertie du vaisseau lorsque le mode tertiaire est activé"
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Heavy Missile, Cruise Missile and Torpedo velocity while Tertiary Mode is enabled"
+            "text": "de bonus à la vitesse des missiles lourds, des missiles de croisière et des torpilles lorsque le mode tertiaire est activé"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Tertiary Mode is enabled"
+            "text": "de bonus à la cadence de tir du lance-missile lourd rapide, du lance-missiles de croisière et du lance-torpilles lorsque le mode tertiaire est activé"
           }
         ], 
         "header": "Bonus de rôle :"
@@ -111491,11 +112130,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion velocity"
+              "text": "de bonus à la vitesse d'explosion des missiles de croisière et des torpilles"
             }, 
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion radius"
+              "text": "de bonus au rayon d'explosion des missiles de croisière et des torpilles"
             }
           ], 
           "header": " Bonus (par niveau de compétence) Croiseur de bataille caldari :"
@@ -111589,63 +112228,63 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher powergrid requirement"
+            "text": "高速ヘビーミサイルランチャー、クルーズミサイルランチャー、およびトルピードランチャーのパワーグリッド使用量が減少"
           }, 
           {
             "number": "50%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher CPU requirement"
+            "text": "高速ヘビーミサイルランチャー、クルーズミサイルランチャー、およびトルピードランチャーのCPU使用率が減少"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Modes are active. Modes may be switched no more than once every 10 seconds."
+            "text": "·3種類の戦術モードを持ち、有効化したモードに応じて追加ボーナスを得る。少なくとも10秒経過しないとモードを切り替えることはできない。"
           }, 
           {
-            "text": "·Primary Mode"
+            "text": "·第1モード"
           }, 
           {
             "number": "250%", 
-            "text": "bonus to lock range while Primary Mode is enabled"
+            "text": "第1モード中、ロック射程にボーナス"
           }, 
           {
             "number": "33.3%", 
-            "text": "decrease in missile velocity while Primary Mode is enabled"
+            "text": "第1モード中、ミサイル速度が減少"
           }, 
           {
             "number": "1000%", 
-            "text": "increase in missile flight time while Primary Mode is enabled"
+            "text": "第1モード中、ミサイルの飛行時間が増加"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Primary Mode is enabled"
+            "text": "第1モード中、高速ヘビーミサイルランチャー、クルーズミサイルランチャー、およびトルピードランチャーの発射間隔にボーナス"
           }, 
           {
-            "text": "·Secondary Mode"
-          }, 
-          {
-            "number": "50%", 
-            "text": "decrease in missile flight time while Secondary Mode is enabled"
+            "text": "·第2モード"
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Secondary Mode is enabled"
+            "text": "第2モード中、ミサイルの飛行時間が減少"
           }, 
           {
-            "text": "·Tertiary Mode"
+            "number": "50%", 
+            "text": "第2モード中、高速ヘビーミサイルランチャー、クルーズミサイルランチャー、およびトルピードランチャーの発射間隔にボーナス"
+          }, 
+          {
+            "text": "·第3モード"
           }, 
           {
             "number": "90%", 
-            "text": "reduction in Micro Jump Drive reactivation delay while Tertiary Mode is enabled"
+            "text": "第3モード中、マイクロジャンプドライブの再起動遅延が減少"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to ship inertia modifier while Tertiary Mode is enabled"
+            "text": "第3モード中、艦船の慣性乗数にボーナス"
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Heavy Missile, Cruise Missile and Torpedo velocity while Tertiary Mode is enabled"
+            "text": "第3モード中、ヘビーミサイル、クルーズミサイルおよびトルピードの速度にボーナス"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Tertiary Mode is enabled"
+            "text": "第3モード中、高速ヘビーミサイルランチャー、クルーズミサイルランチャー、およびトルピードランチャーの発射間隔にボーナス"
           }
         ], 
         "header": "性能ボーナス："
@@ -111655,11 +112294,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion velocity"
+              "text": "クルーズミサイルとトルピードの爆発速度にボーナス"
             }, 
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion radius"
+              "text": "クルーズミサイルとトルピードの爆発半径にボーナス"
             }
           ], 
           "header": "カルダリ巡洋戦艦ボーナス(スキルレベルごとに):"
@@ -111671,63 +112310,63 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher powergrid requirement"
+            "text": "급속 헤비 미사일 런처, 크루즈 미사일 런처, 토피도 런처 파워그리드 요구량 감소"
           }, 
           {
             "number": "50%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher CPU requirement"
+            "text": "급속 헤비 미사일 런처, 크루즈 미사일 런처, 토피도 런처 CPU 요구량 감소"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Modes are active. Modes may be switched no more than once every 10 seconds."
+            "text": "·세 가지 전술 모드 중 한 가지가 활성화되면 추가 보너스가 부여됩니다. 10초에 한 번 모드를 전환할 수 있습니다."
           }, 
           {
-            "text": "·Primary Mode"
+            "text": "·주 모드"
           }, 
           {
             "number": "250%", 
-            "text": "bonus to lock range while Primary Mode is enabled"
+            "text": "주 모드 활성화 중 타켓팅 범위 증가"
           }, 
           {
             "number": "33.3%", 
-            "text": "decrease in missile velocity while Primary Mode is enabled"
+            "text": "주 모드 활성화 중 미사일 속도 감소"
           }, 
           {
             "number": "1000%", 
-            "text": "increase in missile flight time while Primary Mode is enabled"
+            "text": "주 모드 활성화 중 미사일 비행시간 증가"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Primary Mode is enabled"
+            "text": "주 모드 활성화 중 급속 헤비 미사일 런처, 크루즈 미사일 런처, 토피도 런처 연사속도 증가"
           }, 
           {
-            "text": "·Secondary Mode"
-          }, 
-          {
-            "number": "50%", 
-            "text": "decrease in missile flight time while Secondary Mode is enabled"
+            "text": "·보조 모드"
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Secondary Mode is enabled"
+            "text": "보조 모드 활성화 중 미사일 비행시간 감소"
           }, 
           {
-            "text": "·Tertiary Mode"
+            "number": "50%", 
+            "text": "보조 모드 활성화 중 급속 헤비 미사일 런처, 크루즈 미사일 런처, 토피도 런처 연사속도 증가"
+          }, 
+          {
+            "text": "·3차 모드"
           }, 
           {
             "number": "90%", 
-            "text": "reduction in Micro Jump Drive reactivation delay while Tertiary Mode is enabled"
+            "text": "3차 모드 활성화 중 마이크로 점프 드라이브 재가동 지연 시간 감소"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to ship inertia modifier while Tertiary Mode is enabled"
+            "text": "3차 모드 활성화 중 관성 계수 감소"
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Heavy Missile, Cruise Missile and Torpedo velocity while Tertiary Mode is enabled"
+            "text": "3차 모드 활성화 중 헤비 미사일, 크루즈 미사일, 토피도 속도 증가"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Tertiary Mode is enabled"
+            "text": "3차 모드 활성화 중 급속 헤비 미사일 런처, 크루즈 미사일 런처, 토피도 런처 연사속도 증가"
           }
         ], 
         "header": "역할 보너스:"
@@ -111737,11 +112376,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion velocity"
+              "text": "크루즈 미사일 및 토피도 폭발속도 증가"
             }, 
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion radius"
+              "text": "크루즈 미사일 및 토피도 폭발 반경 감소"
             }
           ], 
           "header": "칼다리 배틀크루저 보너스 (스킬 레벨당):"
@@ -111753,63 +112392,63 @@
         "bonuses": [
           {
             "number": "на 95%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher powergrid requirement"
+            "text": "снижение требований к энергосистемам для пусковых установок скорострельных тяжёлых ракет, дальнобойных ракет и торпед"
           }, 
           {
             "number": "на 50%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher CPU requirement"
+            "text": "снижение требований к ЦПУ для пусковых установок скорострельных тяжёлых ракет, дальнобойных ракет и торпед"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Modes are active. Modes may be switched no more than once every 10 seconds."
+            "text": "·Корабль получает дополнительные бонусы при работе в одном из трёх тактических режимов. Промежуток между сменой режимов должен составлять не менее 10 секунд."
           }, 
           {
-            "text": "·Primary Mode"
+            "text": "·Первый режим"
           }, 
           {
             "number": "на 250%", 
-            "text": "bonus to lock range while Primary Mode is enabled"
+            "text": "бонус к дальности захвата целей в первом режиме"
           }, 
           {
             "number": "на 33.3%", 
-            "text": "decrease in missile velocity while Primary Mode is enabled"
+            "text": "замедление полёта ракет в первом режиме"
           }, 
           {
             "number": "на 1000%", 
-            "text": "increase in missile flight time while Primary Mode is enabled"
+            "text": "Увеличение времени полёта ракет в первом режиме"
           }, 
           {
             "number": "на 25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Primary Mode is enabled"
+            "text": "бонус к скорострельности пусковых установок скорострельных тяжёлых ракет, дальнобойных ракет и торпед в первом режиме"
           }, 
           {
-            "text": "·Secondary Mode"
-          }, 
-          {
-            "number": "на 50%", 
-            "text": "decrease in missile flight time while Secondary Mode is enabled"
+            "text": "·Второй режим"
           }, 
           {
             "number": "на 50%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Secondary Mode is enabled"
+            "text": "сокращение времени полёта ракет во втором режиме"
           }, 
           {
-            "text": "·Tertiary Mode"
+            "number": "на 50%", 
+            "text": "бонус к скорострельности пусковых установок скорострельных тяжёлых ракет, дальнобойных ракет и торпед во втором режиме"
+          }, 
+          {
+            "text": "·Третий режим"
           }, 
           {
             "number": "на 90%", 
-            "text": "reduction in Micro Jump Drive reactivation delay while Tertiary Mode is enabled"
+            "text": "сокращение задержки повторного включения маневрового гипердвигателя в третьем режиме"
           }, 
           {
             "number": "на 25%", 
-            "text": "bonus to ship inertia modifier while Tertiary Mode is enabled"
+            "text": "бонус к модификатору инертности корабля в третьем режиме"
           }, 
           {
             "number": "на 50%", 
-            "text": "bonus to Heavy Missile, Cruise Missile and Torpedo velocity while Tertiary Mode is enabled"
+            "text": "бонус к скорости полёта тяжёлых ракет, дальнобойных ракет и торпед в третьем режиме"
           }, 
           {
             "number": "на 25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Tertiary Mode is enabled"
+            "text": "бонус к скорострельности пусковых установок скорострельных тяжёлых ракет, дальнобойных ракет и торпед в третьем режиме"
           }
         ], 
         "header": "Профильные особенности проекта:"
@@ -111819,11 +112458,11 @@
           "bonuses": [
             {
               "number": "на 5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion velocity"
+              "text": "бонус к скорости распространения взрыва дальнобойных ракет и торпед"
             }, 
             {
               "number": "на 5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion radius"
+              "text": "бонус к радиусу взрыва дальнобойных ракет и торпед"
             }
           ], 
           "header": "За каждую степень освоения навыка Калдарские линейные крейсеры:"
@@ -111835,63 +112474,63 @@
         "bonuses": [
           {
             "number": "95%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher powergrid requirement"
+            "text": "重型快速导弹发射器、巡航导弹发射器和鱼雷发射器能量栅格需求降低"
           }, 
           {
             "number": "50%", 
-            "text": "reduction in Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher CPU requirement"
+            "text": "重型快速导弹发射器、巡航导弹发射器和鱼雷发射器CPU需求降低"
           }, 
           {
-            "text": "·Additional bonuses are available while one of three Tactical Modes are active. Modes may be switched no more than once every 10 seconds."
+            "text": "·启用三种战术模式中任意一种会获得额外加成。每10秒钟只能切换一次模式。"
           }, 
           {
-            "text": "·Primary Mode"
+            "text": "·主模式"
           }, 
           {
             "number": "250%", 
-            "text": "bonus to lock range while Primary Mode is enabled"
+            "text": "启用主模式后锁定范围增加"
           }, 
           {
             "number": "33.3%", 
-            "text": "decrease in missile velocity while Primary Mode is enabled"
+            "text": "启用主模式后导弹速度降低"
           }, 
           {
             "number": "1000%", 
-            "text": "increase in missile flight time while Primary Mode is enabled"
+            "text": "启用主模式后导弹飞行时间增加"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Primary Mode is enabled"
+            "text": "启用主模式后，重型快速导弹发射器、巡航导弹发射器和鱼雷发射器射速提高"
           }, 
           {
-            "text": "·Secondary Mode"
-          }, 
-          {
-            "number": "50%", 
-            "text": "decrease in missile flight time while Secondary Mode is enabled"
+            "text": "·次级模式"
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Secondary Mode is enabled"
+            "text": "启用次级模式后导弹飞行时间减少"
           }, 
           {
-            "text": "·Tertiary Mode"
+            "number": "50%", 
+            "text": "启用次级模式后，重型快速导弹发射器、巡航导弹发射器和鱼雷发射器射速提高"
+          }, 
+          {
+            "text": "·三级模式"
           }, 
           {
             "number": "90%", 
-            "text": "reduction in Micro Jump Drive reactivation delay while Tertiary Mode is enabled"
+            "text": "启用三级模式后，微型跳跃引擎重启延迟降低"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to ship inertia modifier while Tertiary Mode is enabled"
+            "text": "启用三级模式后舰船惯性调整系数加成"
           }, 
           {
             "number": "50%", 
-            "text": "bonus to Heavy Missile, Cruise Missile and Torpedo velocity while Tertiary Mode is enabled"
+            "text": "启用三级模式后，重型导弹、巡航导弹和鱼雷速度提高"
           }, 
           {
             "number": "25%", 
-            "text": "bonus to Rapid Heavy Missile Launcher, Cruise Missile Launcher and Torpedo Launcher rate of fire while Tertiary Mode is enabled"
+            "text": "启用三级模式后，重型快速导弹发射器、巡航导弹发射器和鱼雷发射器射速提高"
           }
         ], 
         "header": "特有加成："
@@ -111901,11 +112540,11 @@
           "bonuses": [
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion velocity"
+              "text": "巡航导弹和鱼雷爆炸速度加成"
             }, 
             {
               "number": "5%", 
-              "text": "bonus to Cruise Missile and Torpedo explosion radius"
+              "text": "巡航导弹和鱼雷爆炸半径加成"
             }
           ], 
           "header": "加达里战列巡洋舰操作每升一级："
@@ -134938,7 +135577,7 @@
             "text": "·На кораблях этого типа устранена задержка включения систем захвата целей, вызываемая отключением систем маскировки"
           }, 
           {
-            "text": "·Возможна установка внережимной системы маскировки, приводного маяка скрытого действия и бомбометателя"
+            "text": "·Возможна установка всережимной системы маскировки, приводного маяка скрытого действия и бомбометателя"
           }, 
           {
             "text": "·Задержка повторного включения систем маскировки сокращена до 15 секунд"
@@ -135265,216 +135904,6 @@
       ]
     }, 
     "typeID": 4363
-  }, 
-  {
-    "traits_de": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "30%", 
-            "text": "Bonus auf Fern-Panzerungsreparatur"
-          }, 
-          {
-            "number": "30%", 
-            "text": "Bonus auf Fern-Schildbooster"
-          }, 
-          {
-            "number": "30%", 
-            "text": "Abzug auf die Warpgeschwindigkeit"
-          }, 
-          {
-            "number": "50%", 
-            "text": "Abzug auf maximal aufgeschaltete Ziele"
-          }
-        ], 
-        "header": "Verschiedene Boni:"
-      }
-    }, 
-    "traits_en-us": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "30%", 
-            "text": "bonus to remote armor repair"
-          }, 
-          {
-            "number": "30%", 
-            "text": "bonus to remote shield boost"
-          }, 
-          {
-            "number": "30%", 
-            "text": "penalty to warp speed"
-          }, 
-          {
-            "number": "50%", 
-            "text": "penalty to maximum locked targets"
-          }
-        ], 
-        "header": "Misc bonus:"
-      }
-    }, 
-    "traits_es": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "30%", 
-            "text": "de bonificación a la reparación remota de blindajes."
-          }, 
-          {
-            "number": "30%", 
-            "text": "de bonificación a la potenciación remota de escudos."
-          }, 
-          {
-            "number": "30%", 
-            "text": "de penalización a la velocidad de warp."
-          }, 
-          {
-            "number": "50%", 
-            "text": "de penalización al máximo de objetivos fijados."
-          }
-        ], 
-        "header": "Bonificación misc.:"
-      }
-    }, 
-    "traits_fr": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "30%", 
-            "text": "de bonus au réparateur de blindage à distance"
-          }, 
-          {
-            "number": "30%", 
-            "text": "de bonus au booster de bouclier à distance"
-          }, 
-          {
-            "number": "30%", 
-            "text": "de pénalité à la vitesse de warp"
-          }, 
-          {
-            "number": "50%", 
-            "text": "de pénalité au nombre maximum de cibles verrouillées"
-          }
-        ], 
-        "header": "Bonus divers :"
-      }
-    }, 
-    "traits_it": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "30%", 
-            "text": "bonus to remote armor repair"
-          }, 
-          {
-            "number": "30%", 
-            "text": "bonus to remote shield boost"
-          }, 
-          {
-            "number": "30%", 
-            "text": "penalty to warp speed"
-          }, 
-          {
-            "number": "50%", 
-            "text": "penalty to maximum locked targets"
-          }
-        ], 
-        "header": "Misc bonus:"
-      }
-    }, 
-    "traits_ja": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "30%", 
-            "text": "リモートアーマーリペアラにボーナス"
-          }, 
-          {
-            "number": "30%", 
-            "text": "リモートシールドブースターを強化"
-          }, 
-          {
-            "number": "30%", 
-            "text": "ワープ速度にペナルティ"
-          }, 
-          {
-            "number": "50%", 
-            "text": "最大ターゲットロック数にペナルティ"
-          }
-        ], 
-        "header": "その他のボーナス："
-      }
-    }, 
-    "traits_ko": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "30%", 
-            "text": "원격 장갑수리량 증가"
-          }, 
-          {
-            "number": "30%", 
-            "text": "원격 실드 부스터 회복량 증가"
-          }, 
-          {
-            "number": "30%", 
-            "text": "워프 속도 감소"
-          }, 
-          {
-            "number": "50%", 
-            "text": "최대 타겟 수 감소"
-          }
-        ], 
-        "header": "기타 보너스:"
-      }
-    }, 
-    "traits_ru": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "на 30%", 
-            "text": "бонус к дистанционному ремонту брони"
-          }, 
-          {
-            "number": "на 30%", 
-            "text": "бонус к дистанционному усилению щитов"
-          }, 
-          {
-            "number": "на 30%", 
-            "text": "штраф к скорости хода в варп-режиме"
-          }, 
-          {
-            "number": "на 50%", 
-            "text": "штраф к максимальному числу захваченных целей"
-          }
-        ], 
-        "header": "Прочие особенности проекта:"
-      }
-    }, 
-    "traits_zh": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "30%", 
-            "text": "远程装甲维修加成"
-          }, 
-          {
-            "number": "30%", 
-            "text": "远程护盾回充量加成"
-          }, 
-          {
-            "number": "30%", 
-            "text": "跃迁速度惩罚"
-          }, 
-          {
-            "number": "50%", 
-            "text": "目标锁定数上限惩罚"
-          }
-        ], 
-        "header": "其它加成："
-      }
-    }, 
-    "typeID": 87164
   }, 
   {
     "traits_de": {
@@ -135856,7 +136285,7 @@
             "text": "·На кораблях этого типа устранена задержка включения систем захвата целей, вызываемая отключением систем маскировки"
           }, 
           {
-            "text": "·Возможна установка внережимной системы маскировки, приводного маяка скрытого действия и бомбометателя "
+            "text": "·Возможна установка всережимной системы маскировки, приводного маяка скрытого действия и бомбометателя "
           }, 
           {
             "text": "·Задержка повторного включения систем маскировки сокращена до 15 секунд"
@@ -137818,7 +138247,7 @@
             "text": "·На кораблях этого типа устранена задержка включения систем захвата целей, вызываемая отключением систем маскировки"
           }, 
           {
-            "text": "·Возможна установка внережимной системы маскировки, приводного маяка скрытого действия и бомбометателя"
+            "text": "·Возможна установка всережимной системы маскировки, приводного маяка скрытого действия и бомбометателя"
           }, 
           {
             "text": "·Задержка повторного включения систем маскировки сокращена до 15 секунд"
@@ -142750,6 +143179,10 @@
             {
               "number": "30%", 
               "text": "Bonus auf die Transfermenge, optimale Reichweite und den Präzisionsabfall von Energie-Nosferatu-Modulen"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "Amarr Carrier Boni (je Skillstufe):"
@@ -142817,6 +143250,10 @@
             {
               "number": "30%", 
               "text": "bonus to Energy Nosferatu drain amount, optimal range and falloff"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "Amarr Carrier bonuses (per skill level):"
@@ -142884,6 +143321,10 @@
             {
               "number": "30%", 
               "text": "de bonificación a la cantidad drenada y a los alcances óptimo y efectivo del nosferatu de energía."
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "Bonificaciones de Portanaves amarriano (por nivel de habilidad):"
@@ -142951,6 +143392,10 @@
             {
               "number": "30%", 
               "text": "de bonus au volume d'énergie siphonnée, à la portée optimale et à la déperdition des Nosferatu à énergie"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": " Bonus (par niveau de compétence) Porte-vaisseaux amarr :"
@@ -143018,6 +143463,10 @@
             {
               "number": "30%", 
               "text": "bonus to Energy Nosferatu drain amount, optimal range and falloff"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "Amarr Carrier bonuses (per skill level):"
@@ -143085,6 +143534,10 @@
             {
               "number": "30%", 
               "text": "エネルギーノスフェラトゥ吸収量、最適射程距離、精度低下距離にボーナス"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "アマー艦載機母艦ボーナス(スキルレベルごとに):"
@@ -143152,6 +143605,10 @@
             {
               "number": "30%", 
               "text": "에너지 노스페라투 흡수량, 최적 사거리, 유효사거리 증가"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "아마르 캐리어 보너스 (스킬 레벨당):"
@@ -143219,6 +143676,10 @@
             {
               "number": "на 30%", 
               "text": "увеличивается пропускная способность, оптимальная и добавочная дальность действия устройств паразитной подзарядки накопителя"
+            }, 
+            {
+              "number": "на 20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "За каждую степень освоения навыка Амаррские КАРы:"
@@ -143286,6 +143747,10 @@
             {
               "number": "30%", 
               "text": "掠能器吸取量、最佳射程和失准范围加成"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "艾玛航空母舰操作每升一级："
@@ -147169,6 +147634,10 @@
             {
               "number": "5%", 
               "text": "Bonus auf die Leistung von Capital-Schildfernboostern"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "Gallente Carrier Boni (je Skillstufe):"
@@ -147177,7 +147646,7 @@
           "bonuses": [
             {
               "number": "4%", 
-              "text": "Bonus auf alle Schildresistenzen"
+              "text": "bonus to all shield resistances"
             }
           ], 
           "header": "Caldari Carrier Boni (je Skillstufe):"
@@ -147221,6 +147690,10 @@
             {
               "number": "5%", 
               "text": "bonus to Capital Remote Shield Booster amount"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "Gallente Carrier bonuses (per skill level):"
@@ -147273,6 +147746,10 @@
             {
               "number": "5%", 
               "text": "de bonificación a la eficiencia de los potenciadores de escudo remotos capitales."
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "Bonificaciones de Portanaves gallente (por nivel de habilidad):"
@@ -147281,7 +147758,7 @@
           "bonuses": [
             {
               "number": "4%", 
-              "text": "de bonificación a todas las resistencias de escudo."
+              "text": "bonus to all shield resistances"
             }
           ], 
           "header": "Bonificaciones de Portanaves caldari (por nivel de habilidad):"
@@ -147325,6 +147802,10 @@
             {
               "number": "5%", 
               "text": "de bonus au montant du booster de bouclier à distance capital"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": " Bonus (par niveau de compétence) Porte-vaisseaux gallente :"
@@ -147333,7 +147814,7 @@
           "bonuses": [
             {
               "number": "4%", 
-              "text": "de bonus à toutes les résistances de bouclier"
+              "text": "bonus to all shield resistances"
             }
           ], 
           "header": " Bonus (par niveau de compétence) Porte-vaisseaux caldari :"
@@ -147377,6 +147858,10 @@
             {
               "number": "5%", 
               "text": "bonus to Capital Remote Shield Booster amount"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "Gallente Carrier bonuses (per skill level):"
@@ -147429,6 +147914,10 @@
             {
               "number": "5%", 
               "text": "キャピタルリモートシールドブースター量が増加"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "ガレンテ艦載機母艦ボーナス(スキルレベルごとに):"
@@ -147437,7 +147926,7 @@
           "bonuses": [
             {
               "number": "4%", 
-              "text": "全てのシールドレジスタンスにボーナス"
+              "text": "bonus to all shield resistances"
             }
           ], 
           "header": "カルダリ艦載機母艦ボーナス(スキルレベルごとに):"
@@ -147481,6 +147970,10 @@
             {
               "number": "5%", 
               "text": "캐피탈 원격 실드 부스터 회복량 증가"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "갈란테 캐리어 보너스 (스킬 레벨당):"
@@ -147489,7 +147982,7 @@
           "bonuses": [
             {
               "number": "4%", 
-              "text": "모든 실드 저항력 증가"
+              "text": "bonus to all shield resistances"
             }
           ], 
           "header": "칼다리 캐리어 보너스 (스킬 레벨당):"
@@ -147533,6 +148026,10 @@
             {
               "number": "на 5%", 
               "text": "бонус к эффективности флагманских модулей дистанционного усиления щитов"
+            }, 
+            {
+              "number": "на 20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "За каждую степень освоения навыка Галлентские КАРы:"
@@ -147541,7 +148038,7 @@
           "bonuses": [
             {
               "number": "на 4%", 
-              "text": "повышается сопротивляемость щитов корабля всем видам воздействия"
+              "text": "bonus to all shield resistances"
             }
           ], 
           "header": "За каждую степень освоения навыка Калдарские КАРы:"
@@ -147585,6 +148082,10 @@
             {
               "number": "5%", 
               "text": "旗舰级远程护盾回充增量器回充量加成"
+            }, 
+            {
+              "number": "20%", 
+              "text": "bonus to Capacitor Booster amount "
             }
           ], 
           "header": "盖伦特航空母舰操作每升一级："
@@ -147593,7 +148094,7 @@
           "bonuses": [
             {
               "number": "4%", 
-              "text": "护盾抗性加成"
+              "text": "bonus to all shield resistances"
             }
           ], 
           "header": "加达里航空母舰操作每升一级："
@@ -159916,11 +160417,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "Bonus auf den Schaden von kleinen Energiegeschütztürmen, kleinen Hybridgeschütztürmen und kleinen Projektilwaffentürmen"
           }, 
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "Bonus auf den Schaden von leichten Lenkwaffen und Raketen"
           }, 
           {
@@ -159961,11 +160462,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "bonus to Small Energy Turret, Small Hybrid Turret and Small Projectile Turret damage"
           }, 
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "bonus to Light Missile and Rockets damage"
           }, 
           {
@@ -160006,11 +160507,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "de bonificación al daño de la torreta de energía pequeña, la torreta híbrida pequeña y la torreta de proyectiles pequeña."
           }, 
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "de bonificación al daño de los misiles ligeros y los cohetes."
           }, 
           {
@@ -160051,11 +160552,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "de bonus aux dégâts des petites tourelles à énergie, petites tourelles hybrides et petites tourelles à projectiles"
           }, 
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "de bonus aux dégâts des missiles légers et des roquettes"
           }, 
           {
@@ -160096,11 +160597,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "bonus to Small Energy Turret, Small Hybrid Turret and Small Projectile Turret damage"
           }, 
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "bonus to Light Missile and Rockets damage"
           }, 
           {
@@ -160141,11 +160642,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "小型エネルギータレット、小型ハイブリッドタレット、そして小型プロジェクタイルタレットのダメージにボーナス"
           }, 
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "ライトミサイルおよびロケットのダメージにボーナス"
           }, 
           {
@@ -160186,11 +160687,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "소형 에너지 터렛, 소형 하이브리드 터렛, 소형 발사체 터렛 피해량 증가"
           }, 
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "라이트 미사일 및 로켓 피해량 증가"
           }, 
           {
@@ -160231,11 +160732,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "на 100%", 
+            "number": "на 80%", 
             "text": "бонус к урону малых лазерных орудий, малых гибридных орудий и малых баллистических орудий"
           }, 
           {
-            "number": "на 100%", 
+            "number": "на 80%", 
             "text": "бонус к урону лёгких ракет и ракет"
           }, 
           {
@@ -160263,7 +160764,7 @@
             "text": "снижение требований к мощности ЦПУ для систем маскировки, пусковых установок разведзондов, анализаторов артефактов и анализаторов данных"
           }, 
           {
-            "text": "·Возможна установка внережимной системы маскировки"
+            "text": "·Возможна установка всережимной системы маскировки"
           }, 
           {
             "text": "·Задержка повторного включения систем маскировки снижена до 15 секунд"
@@ -160276,11 +160777,11 @@
       "role": {
         "bonuses": [
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "小型能量炮台、小型混合炮台和小型射弹炮台伤害加成"
           }, 
           {
-            "number": "100%", 
+            "number": "80%", 
             "text": "轻型导弹和火箭伤害加成"
           }, 
           {
@@ -160660,7 +161161,7 @@
             "text": "·Возможна установка одной малой ПУ внедряющихся капсул"
           }, 
           {
-            "text": "·Возможна установка внережимной системы маскировки"
+            "text": "·Возможна установка всережимной системы маскировки"
           }, 
           {
             "number": "на 100%", 
@@ -160704,7 +161205,7 @@
             "text": "小型射弹炮台和火箭伤害加成"
           }, 
           {
-            "text": "·可以装配一个小型突破者级逃生舱发射器"
+            "text": "·可以装配一个小型突破者座舱发射器"
           }, 
           {
             "text": "·可以装配隐秘行动隐形装置"
@@ -165396,6 +165897,10 @@
           {
             "number": "150%", 
             "text": "Bonus auf den Schaden von kleinen Energiegeschütztürmen"
+          }, 
+          {
+            "number": "50%", 
+            "text": "Reduktion der Aktivierungskosten von kleinen Energiegeschütztürmen"
           }
         ], 
         "header": "Funktionsbonus:"
@@ -165427,6 +165932,10 @@
           {
             "number": "150%", 
             "text": "bonus to Small Energy Turret damage"
+          }, 
+          {
+            "number": "50%", 
+            "text": "reduction in Small Energy Turret activation cost"
           }
         ], 
         "header": "Role Bonus:"
@@ -165458,6 +165967,10 @@
           {
             "number": "150%", 
             "text": "de bonificación al daño de la torreta de energía pequeña."
+          }, 
+          {
+            "number": "50%", 
+            "text": "de reducción del coste de activación de la torreta de energía pequeña."
           }
         ], 
         "header": "Bonificación por función:"
@@ -165489,6 +166002,10 @@
           {
             "number": "150%", 
             "text": "de bonus aux dégâts des petites tourelles à énergie"
+          }, 
+          {
+            "number": "50%", 
+            "text": "de réduction au coût d'activation des petites tourelles à énergie"
           }
         ], 
         "header": "Bonus de rôle :"
@@ -165520,6 +166037,10 @@
           {
             "number": "150%", 
             "text": "bonus to Small Energy Turret damage"
+          }, 
+          {
+            "number": "50%", 
+            "text": "reduction in Small Energy Turret activation cost"
           }
         ], 
         "header": "Role Bonus:"
@@ -165551,6 +166072,10 @@
           {
             "number": "150%", 
             "text": "小型エネルギータレットのダメージが増加"
+          }, 
+          {
+            "number": "50%", 
+            "text": "小型エネルギータレットの起動コストが減少"
           }
         ], 
         "header": "性能ボーナス："
@@ -165582,6 +166107,10 @@
           {
             "number": "150%", 
             "text": "소형 에너지 터렛 피해량 증가"
+          }, 
+          {
+            "number": "50%", 
+            "text": "소형 에너지 터렛 활성화 비용 감소"
           }
         ], 
         "header": "역할 보너스:"
@@ -165613,6 +166142,10 @@
           {
             "number": "на 150%", 
             "text": "увеличивается урон малых лазерных орудий"
+          }, 
+          {
+            "number": "на 50%", 
+            "text": "снижение расхода энергии на активацию малых лазерных орудий"
           }
         ], 
         "header": "Профильные особенности проекта:"
@@ -165644,6 +166177,10 @@
           {
             "number": "150%", 
             "text": "小型能量炮台伤害加成"
+          }, 
+          {
+            "number": "50%", 
+            "text": "小型能量炮台启动消耗降低"
           }
         ], 
         "header": "特有加成："
@@ -166844,7 +167381,7 @@
       "role": {
         "bonuses": [
           {
-            "text": "·可装配联网感应器阵列"
+            "text": "·可装配集成传感器阵列"
           }, 
           {
             "text": "·可以装配旗舰级微型跳跃引擎和旗舰级微型跳跃力场发生器"
@@ -168070,7 +168607,7 @@
       "role": {
         "bonuses": [
           {
-            "text": "·可装配联网感应器阵列"
+            "text": "·可装配集成传感器阵列"
           }, 
           {
             "text": "·可以装配旗舰级微型跳跃引擎和旗舰级微型跳跃力场发生器"
@@ -170862,7 +171399,7 @@
           }, 
           {
             "number": "-30%", 
-            "text": "冰矿采集器运转周期"
+            "text": "气云采集器运转周期"
           }
         ], 
         "header": "特有加成："
@@ -170884,7 +171421,7 @@
             }, 
             {
               "number": "-3%", 
-              "text": "冰矿采集器运转周期"
+              "text": "气云采集器运转周期"
             }
           ], 
           "header": "采矿驳船操作每升一级："
@@ -170909,7 +171446,7 @@
             }, 
             {
               "number": "-3%", 
-              "text": "冰矿采集器运转周期"
+              "text": "气云采集器运转周期"
             }
           ], 
           "header": "采掘者操作每升一级："
@@ -172202,7 +172739,7 @@
             "text": "·Возможна установка одной средней ПУ внедряющихся капсул"
           }, 
           {
-            "text": "·Возможна установка внережимной системы маскировки"
+            "text": "·Возможна установка всережимной системы маскировки"
           }, 
           {
             "number": "на 100%", 
@@ -172257,7 +172794,7 @@
             "text": "中型射弹炮台最佳射程和失准范围及导弹飞行速度加成"
           }, 
           {
-            "text": "·可以装配一个中型突破者级逃生舱发射器"
+            "text": "·可以装配一个中型突破者座舱发射器"
           }, 
           {
             "text": "·可以装配隐秘行动隐形装置"
@@ -173263,7 +173800,7 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "Bonus auf dem Schaden von mittelgroßen Energiegeschütztürmen, mittelgroßen Hybridgeschütztürmen und mittelgroßen Projektilgeschütztürmen"
           }, 
           {
@@ -173271,7 +173808,7 @@
             "text": "Bonus auf die Reichweite des Wirkungsbereichs von Kommandostrahlen"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "Bonus auf den Schaden von schweren Lenkwaffen und schweren Angriffslenkwaffen"
           }, 
           {
@@ -173293,7 +173830,7 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Medium Energy Turret, Medium Hybrid Turret and Medium Projectile Turret damage"
           }, 
           {
@@ -173301,7 +173838,7 @@
             "text": "bonus to Command Burst area of effect range"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Heavy Missile and Heavy Assault Missile damage"
           }, 
           {
@@ -173323,7 +173860,7 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonificación al daño de la torreta de energía mediana, la torreta híbrida mediana y la torreta de proyectiles mediana."
           }, 
           {
@@ -173331,7 +173868,7 @@
             "text": "de bonificación al alcance del radio de acción del estallido de mando."
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonificación al daño de los misiles pesados y los misiles de asalto pesados."
           }, 
           {
@@ -173353,7 +173890,7 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonus aux dégâts des tourelles à énergie intermédiaires, des tourelles hybrides intermédiaires et des tourelles à projectiles intermédiaires"
           }, 
           {
@@ -173361,7 +173898,7 @@
             "text": "de bonus à la portée de l'effet de zone des salves de commandement."
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "de bonus aux dégâts des missiles lourds et des missiles d'assaut lourds"
           }, 
           {
@@ -173383,7 +173920,7 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Medium Energy Turret, Medium Hybrid Turret and Medium Projectile Turret damage"
           }, 
           {
@@ -173391,7 +173928,7 @@
             "text": "bonus to Command Burst area of effect range"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "bonus to Heavy Missile and Heavy Assault Missile damage"
           }, 
           {
@@ -173413,7 +173950,7 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "中型エネルギータレット・中型ハイブリッドタレット・中型プロジェクタイルタレットのダメージが増加"
           }, 
           {
@@ -173421,7 +173958,7 @@
             "text": "コマンドバースト効果範囲にボーナス"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "ヘビーミサイルとヘビーアサルトミサイルのダメージが増加"
           }, 
           {
@@ -173443,7 +173980,7 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "중형 에너지 터렛, 중형 하이브리드 터렛 및 중형 발사체 터렛 피해량 증가"
           }, 
           {
@@ -173451,7 +173988,7 @@
             "text": "커맨드 버스트 효과 반경 증가"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "헤비 미사일 및 헤비 어썰트 미사일 피해량 증가"
           }, 
           {
@@ -173473,7 +174010,7 @@
       "role": {
         "bonuses": [
           {
-            "number": "на 25%", 
+            "number": "на 20%", 
             "text": "увеличивается урон боеприпасов средних лазерных орудий, средних гибридных орудий и средних баллистических орудий"
           }, 
           {
@@ -173481,7 +174018,7 @@
             "text": "увеличивается радиус импульсов, генерируемых импульсными оптимизаторами"
           }, 
           {
-            "number": "на 25%", 
+            "number": "на 20%", 
             "text": "увеличивается урон БЧ тяжёлых ракет и тяжёлых штурмовых ракет"
           }, 
           {
@@ -173503,7 +174040,7 @@
       "role": {
         "bonuses": [
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "中型能量炮台、中型混合炮台和中型射弹炮台伤害加成"
           }, 
           {
@@ -173511,7 +174048,7 @@
             "text": "指挥脉冲波效果范围加成"
           }, 
           {
-            "number": "25%", 
+            "number": "20%", 
             "text": "重型导弹和重型攻击导弹伤害加成"
           }, 
           {
@@ -173549,7 +174086,7 @@
           }, 
           {
             "number": "10+", 
-            "text": "Bonus auf die Bergungseahrscheinlichkeit von Bergungsdrohnen"
+            "text": "Bonus auf die Bergungswahrscheinlichkeit von Bergungsdrohnen"
           }
         ], 
         "header": "Funktionsbonus:"
@@ -188926,14 +189463,6 @@
             "text": "Bonus auf die maximale Geschwindigkeit des Schiffs beim Einsatz von Tarnvorrichtungen"
           }, 
           {
-            "number": "100%", 
-            "text": "Bonus auf die HP der Schilderweiterung"
-          }, 
-          {
-            "number": "50%", 
-            "text": "Bonus auf die HP der Panzerplatte"
-          }, 
-          {
             "number": "5%", 
             "text": "zusätzlicher Bonus auf HP der Verstärkten Schottwand"
           }
@@ -188992,14 +189521,6 @@
           {
             "number": "650%", 
             "text": "bonus to ship max velocity when using Cloaking Devices"
-          }, 
-          {
-            "number": "100%", 
-            "text": "bonus to Shield Extender hitpoints"
-          }, 
-          {
-            "number": "50%", 
-            "text": "bonus to Armor Plate hitpoints"
           }, 
           {
             "number": "5%", 
@@ -189062,14 +189583,6 @@
             "text": "de bonificación a la velocidad máxima de la nave al utilizar dispositivos de camuflaje."
           }, 
           {
-            "number": "100%", 
-            "text": "de bonificación a los puntos de vida del extensor de escudo."
-          }, 
-          {
-            "number": "50%", 
-            "text": "de bonificación a los puntos de vida de las placas de blindaje."
-          }, 
-          {
             "number": "5%", 
             "text": "de bonificación adicional a los puntos de vida del mamparo reforzado."
           }
@@ -189128,14 +189641,6 @@
           {
             "number": "650%", 
             "text": "de bonus à la vitesse maximale d'un vaisseau lorsqu'équipé d'un dispositif de camouflage actif"
-          }, 
-          {
-            "number": "100%", 
-            "text": "de bonus aux points de vie de l'extenseur de bouclier"
-          }, 
-          {
-            "number": "50%", 
-            "text": "de bonus aux points de vie du revêtement de blindage"
           }, 
           {
             "number": "5%", 
@@ -189198,14 +189703,6 @@
             "text": "bonus to ship max velocity when using Cloaking Devices"
           }, 
           {
-            "number": "100%", 
-            "text": "bonus to Shield Extender hitpoints"
-          }, 
-          {
-            "number": "50%", 
-            "text": "bonus to Armor Plate hitpoints"
-          }, 
-          {
             "number": "5%", 
             "text": "additional bonus to Reinforced Bulkhead hitpoints"
           }
@@ -189264,14 +189761,6 @@
           {
             "number": "650%", 
             "text": "遮蔽装置使用時の艦船の最高速度が上昇"
-          }, 
-          {
-            "number": "100%", 
-            "text": "シールドエクステンダーHPが増加"
-          }, 
-          {
-            "number": "50%", 
-            "text": "アーマープレートHPが増加"
           }, 
           {
             "number": "5%", 
@@ -189334,14 +189823,6 @@
             "text": "클로킹 장치 사용 시 함선 최대 속도 증가"
           }, 
           {
-            "number": "100%", 
-            "text": "실드 확장장치 실드량 증가"
-          }, 
-          {
-            "number": "50%", 
-            "text": "장갑 플레이트 내구도 증가"
-          }, 
-          {
             "number": "5%", 
             "text": "강화 격벽 내구도 증가"
           }
@@ -189402,14 +189883,6 @@
             "text": "бонус к максимальной скорости хода при использовании устройств маскировки"
           }, 
           {
-            "number": "на 100%", 
-            "text": "бонус к прочности расширителя щитов"
-          }, 
-          {
-            "number": "на 50%", 
-            "text": "бонус к прочности бронеплиты"
-          }, 
-          {
             "number": "на 5%", 
             "text": "дополнительный бонус к прочности укреплённой переборки"
           }
@@ -189468,14 +189941,6 @@
           {
             "number": "650%", 
             "text": "使用隐形装置时舰船的最大速度加成"
-          }, 
-          {
-            "number": "100%", 
-            "text": "护盾扩展装置护盾值加成"
-          }, 
-          {
-            "number": "50%", 
-            "text": "装甲附甲板装甲值加成"
           }, 
           {
             "number": "5%", 
@@ -199879,180 +200344,6 @@
       ]
     }, 
     "typeID": 12747
-  }, 
-  {
-    "traits_de": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "15%", 
-            "text": "Bonus auf Fern-Panzerungsreparatur"
-          }, 
-          {
-            "number": "15%", 
-            "text": "Bonus auf Fern-Schildbooster"
-          }, 
-          {
-            "number": "50%", 
-            "text": "Abzug auf maximal aufgeschaltete Ziele"
-          }
-        ], 
-        "header": "Verschiedene Boni:"
-      }
-    }, 
-    "traits_en-us": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "15%", 
-            "text": "bonus to remote armor repair"
-          }, 
-          {
-            "number": "15%", 
-            "text": "bonus to remote shield boost"
-          }, 
-          {
-            "number": "50%", 
-            "text": "penalty to maximum locked targets"
-          }
-        ], 
-        "header": "Misc bonus:"
-      }
-    }, 
-    "traits_es": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "15%", 
-            "text": "de bonificación a la reparación remota de blindajes."
-          }, 
-          {
-            "number": "15%", 
-            "text": "de bonificación a la potenciación remota de escudos."
-          }, 
-          {
-            "number": "50%", 
-            "text": "de penalización al máximo de objetivos fijados."
-          }
-        ], 
-        "header": "Bonificación misc.:"
-      }
-    }, 
-    "traits_fr": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "15%", 
-            "text": "de bonus au réparateur de blindage à distance"
-          }, 
-          {
-            "number": "15%", 
-            "text": "de bonus au booster de bouclier à distance"
-          }, 
-          {
-            "number": "50%", 
-            "text": "de pénalité au nombre maximum de cibles verrouillées"
-          }
-        ], 
-        "header": "Bonus divers :"
-      }
-    }, 
-    "traits_it": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "15%", 
-            "text": "bonus to remote armor repair"
-          }, 
-          {
-            "number": "15%", 
-            "text": "bonus to remote shield boost"
-          }, 
-          {
-            "number": "50%", 
-            "text": "penalty to maximum locked targets"
-          }
-        ], 
-        "header": "Misc bonus:"
-      }
-    }, 
-    "traits_ja": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "15%", 
-            "text": "リモートアーマーリペアラにボーナス"
-          }, 
-          {
-            "number": "15%", 
-            "text": "リモートシールドブースターを強化"
-          }, 
-          {
-            "number": "50%", 
-            "text": "最大ターゲットロック数にペナルティ"
-          }
-        ], 
-        "header": "その他のボーナス："
-      }
-    }, 
-    "traits_ko": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "15%", 
-            "text": "원격 장갑수리량 증가"
-          }, 
-          {
-            "number": "15%", 
-            "text": "원격 실드 부스터 회복량 증가"
-          }, 
-          {
-            "number": "50%", 
-            "text": "최대 타겟 수 감소"
-          }
-        ], 
-        "header": "기타 보너스:"
-      }
-    }, 
-    "traits_ru": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "на 15%", 
-            "text": "бонус к дистанционному ремонту брони"
-          }, 
-          {
-            "number": "на 15%", 
-            "text": "бонус к дистанционному усилению щитов"
-          }, 
-          {
-            "number": "на 50%", 
-            "text": "штраф к максимальному числу захваченных целей"
-          }
-        ], 
-        "header": "Прочие особенности проекта:"
-      }
-    }, 
-    "traits_zh": {
-      "misc": {
-        "bonuses": [
-          {
-            "number": "15%", 
-            "text": "远程装甲维修加成"
-          }, 
-          {
-            "number": "15%", 
-            "text": "远程护盾回充量加成"
-          }, 
-          {
-            "number": "50%", 
-            "text": "目标锁定数上限惩罚"
-          }
-        ], 
-        "header": "其它加成："
-      }
-    }, 
-    "typeID": 87177
   }, 
   {
     "traits_de": {
