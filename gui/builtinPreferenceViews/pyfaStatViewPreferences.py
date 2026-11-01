@@ -116,6 +116,23 @@ class PFStatViewPref(PreferenceView):
 
         mainSizer.Add(rbSizerRow3, 1, wx.ALL | wx.EXPAND, 0)
 
+        # Row 4
+        rbSizerRow4 = wx.BoxSizer(wx.HORIZONTAL)
+
+        self.rbWorstCaseEhp = wx.RadioBox(panel, -1, _t("Worst Case EHP"), wx.DefaultPosition, wx.DefaultSize, [_t('None'), _t('Minimal'), _t('Full')], 1,
+                                          wx.RA_SPECIFY_COLS)
+        # Disable minimal as we don't have a view for this yet
+        self.rbWorstCaseEhp.EnableItem(1, False)
+        self.rbWorstCaseEhp.SetSelection(self.settings.get('worstCaseEhp'))
+        rbSizerRow4.Add(self.rbWorstCaseEhp, 1, wx.TOP | wx.RIGHT, 5)
+        self.rbWorstCaseEhp.Bind(wx.EVT_RADIOBOX, self.OnWorstCaseEhpChange)
+
+        # Fillers to keep the same column width as the rows above
+        rbSizerRow4.AddStretchSpacer(1)
+        rbSizerRow4.AddStretchSpacer(1)
+
+        mainSizer.Add(rbSizerRow4, 1, wx.ALL | wx.EXPAND, 0)
+
         panel.SetSizer(mainSizer)
         panel.Layout()
 
@@ -154,5 +171,8 @@ class PFStatViewPref(PreferenceView):
 
     def OnBombingChange(self, event):
         self.settings.set('bombing', event.GetInt())
+
+    def OnWorstCaseEhpChange(self, event):
+        self.settings.set('worstCaseEhp', event.GetInt())
 
 PFStatViewPref.register()

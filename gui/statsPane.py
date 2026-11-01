@@ -38,6 +38,7 @@ class StatsPane(wx.Panel):
     AVAILIBLE_VIEWS = [
         "resources",
         "resistances",
+        "worstCaseEhp",
         "recharge",
         "firepower",
         "outgoing",

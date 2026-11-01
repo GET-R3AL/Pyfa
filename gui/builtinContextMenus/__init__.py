@@ -47,6 +47,8 @@ from gui.builtinContextMenus import implantSetSave
 from gui.builtinContextMenus import priceOptions
 # Resistance panel
 from gui.builtinContextMenus import damagePatternChange
+# Worst case EHP panel
+from gui.builtinContextMenus import worstCaseEhpOptions
 # Firepower panel
 from gui.builtinContextMenus import factorReload
 from gui.builtinContextMenus.targetProfile import switcher

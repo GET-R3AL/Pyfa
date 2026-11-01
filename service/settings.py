@@ -433,6 +433,7 @@ class StatViewSettings:
             "drones"       : 2,
             "outgoing"     : 2,
             "bombing"      : 0,
+            "worstCaseEhp" : 0,
         }
 
         self.serviceStatViewDefaultSettings = SettingsProvider.getInstance().getSettings("pyfaServiceStatViewSettings", serviceStatViewDefaultSettings)
@@ -552,6 +553,34 @@ class GraphSettings:
             'ignoreLockRange': True,
             'applyProjected': True}
         self.settings = SettingsProvider.getInstance().getSettings('graphSettings', defaults)
+
+    def get(self, type):
+        return self.settings[type]
+
+    def set(self, type, value):
+        self.settings[type] = value
+
+
+class WorstCaseEhpSettings:
+
+    _instance = None
+
+    @classmethod
+    def getInstance(cls):
+        if cls._instance is None:
+            cls._instance = WorstCaseEhpSettings()
+        return cls._instance
+
+    def __init__(self):
+        defaults = {
+            'weapon': 'autocannon',
+            # if False, only the damage type split of the ammo is considered, not its damage
+            'includeDamage': True,
+            't1': True,
+            'faction': True,
+            'officer': False,
+            't2': True}
+        self.settings = SettingsProvider.getInstance().getSettings('pyfaWorstCaseEhpSettings', defaults)
 
     def get(self, type):
         return self.settings[type]
